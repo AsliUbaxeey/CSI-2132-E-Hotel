@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 CREATE TABLE HotelChain (
     Chain_id SERIAL PRIMARY KEY,
     Address VARCHAR(200) NOT NULL,
@@ -125,6 +125,7 @@ create table Renting(
     FOREIGN KEY (EmployeeID) REFERENCES Employee(PersonID),
     FOREIGN KEY (BookingID) REFERENCES Booking(BookingID)	
 );
+
 =======
 CREATE TABLE HotelChain (
     Chain_id SERIAL PRIMARY KEY,
@@ -312,4 +313,3 @@ create table RentingArchive (
     EndDate date not null,
     RentingDate date
 );
->>>>>>> cadd036 (Fix date constraints, updated deletion constraints, created trigger for deletion and conversion of renting and booking, employees are deleted upon hotel deletion,booking are deleted and archived after being converted to renting)
