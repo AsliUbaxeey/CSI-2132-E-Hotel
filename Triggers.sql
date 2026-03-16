@@ -12,8 +12,7 @@ BEGIN
             FROM Employee e
             WHERE e.Person_id = NEW.Manager_id
               AND e.Hotel_id = NEW.Hotel_id
-        )
-		THEN
+        )THEN
             RAISE EXCEPTION
                 'Manager % must be an employee of hotel %',
                 NEW.Manager_id, NEW.Hotel_id;
@@ -39,8 +38,7 @@ BEGIN
         FROM Renting r
         WHERE r.Room_id = NEW.Room_id
           AND daterange(r.StartDate, r.EndDate, '[)') && daterange(NEW.StartDate, NEW.EndDate, '[)')
-    )
-	THEN
+    )THEN
         RAISE EXCEPTION
             'Booking for room % overlaps an active renting',
             NEW.Room_id;
@@ -60,7 +58,7 @@ EXECUTE FUNCTION booking_overlap_with_renting();
 CREATE OR REPLACE FUNCTION check_renting_creation()
 RETURNS TRIGGER AS $$
 DECLARE
-    source_booking RECORD;
+    source_booking RECORD; -- snapshot basically fro the whole row
 BEGIN
     -- If renting comes from a booking
     IF NEW.Booking_id IS NOT NULL THEN
@@ -100,8 +98,7 @@ BEGIN
           AND daterange(b.StartDate, b.EndDate, '[)') &&
               daterange(NEW.StartDate, NEW.EndDate, '[)')
           AND (NEW.Booking_id IS NULL OR b.Booking_id <> NEW.Booking_id)
-    ) 
-	THEN
+    ) THEN
         RAISE EXCEPTION
             'Renting for room % overlaps with an existing booking',
             NEW.Room_id;
@@ -121,7 +118,7 @@ EXECUTE FUNCTION check_renting_creation();
 CREATE OR REPLACE FUNCTION delete_booking_after_renting()
 RETURNS TRIGGER AS $$
 BEGIN
-    IF NEW.Booking_id IS NOT NULL THEN
+    IF NEW.Booking_id IS NOT NULL then
         DELETE FROM Booking
         WHERE Booking_id = NEW.Booking_id;
     END IF;
@@ -255,3 +252,28 @@ CREATE TRIGGER archive_renting_before_delete
 BEFORE DELETE ON Renting
 FOR EACH ROW
 EXECUTE FUNCTION archive_deleted_renting();
+---------------------------------------------------------
+-- Prevent bookings from overlapping
+create or replace function check_booking_overlap()
+returns trigger as $$
+begin
+    if exists (
+        select 1
+        from Booking b
+        where b.Room_id = NEW.Room_id
+          and b.Booking_id <> COALESCE(NEW.Booking_id, -1)
+          and NEW.StartDate < b.EndDate
+          and NEW.EndDate > b.StartDate
+    ) then
+        raise exception 'This booking overlaps with an existing booking for the same room';
+    end if;
+
+    return new;
+end;
+$$ language plpgsql;
+
+create trigger trg_check_booking_overlap
+before insert or update on Booking
+for each row
+execute function check_booking_overlap();
+-- realized i did not need to be using caps the entire time :(
