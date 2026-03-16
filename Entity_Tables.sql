@@ -1,5 +1,5 @@
-create table HotelChain (
-    Chain_id serial Primary key,
+CREATE TABLE HotelChain (
+    Chain_id SERIAL PRIMARY KEY,
 	ChainName varchar(200) not null,
     Address varchar (200) not null,
     NumberOfHotels INT check (NumberOfHotels >= 0)
@@ -182,4 +182,3 @@ create table RentingArchive (
     EndDate date not null,
     RentingDate date
 );
-
