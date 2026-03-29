@@ -43,7 +43,9 @@ Create table Person(
 	FirstName varchar(50) not null,
 	MiddleName varchar(50),
 	LastName varchar(50) not null,
-	Address varchar (100) not null
+	Address varchar (100) not null,
+	Username VARCHAR(50) UNIQUE NOT NULL,
+    Password VARCHAR(255) NOT NULL;
 );
 
 create table Employee(
