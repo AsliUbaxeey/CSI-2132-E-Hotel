@@ -1,0 +1,451 @@
+employee_id,hotel_id,full_name,address,ssn_sin,role_title,is_manager,hire_date,employment_status
+1,1,Sarah Roy,"229 Harbour Ave, Vancouver, BC",EMP-829605,General Manager,True,2023-12-18,active
+2,1,Alexander Baker,"22 Pine Ave, Vancouver, BC",EMP-429540,Assistant Manager,False,2024-10-02,active
+3,1,Elijah Diaz,"452 Wellington Ave, Vancouver, BC",EMP-866785,Front Desk Agent,False,2024-09-14,active
+4,1,Nora Singh,"447 Pine Ave, Vancouver, BC",EMP-760614,Front Desk Agent,False,2019-05-31,active
+5,1,Mila Patel,"250 Somerset Ave, Vancouver, BC",EMP-875043,Night Auditor,False,2020-05-29,active
+6,1,Isabella Mitchell,"579 Bank Ave, Vancouver, BC",EMP-118697,Concierge,False,2019-02-03,active
+7,1,Sebastian Scott,"316 Bank Ave, Vancouver, BC",EMP-927279,Housekeeping Supervisor,False,2025-02-21,active
+8,1,Ethan Chen,"509 Harbour Ave, Vancouver, BC",EMP-501314,Revenue Analyst,False,2023-09-21,active
+9,1,Anika Patel,"305 Pine Ave, Vancouver, BC",EMP-332603,Maintenance Coordinator,False,2025-09-22,active
+10,2,Isaac Hill,"178 Bank Ave, Chicago, IL",EMP-692895,General Manager,True,2024-04-14,active
+11,2,Nathan Chen,"95 York Ave, Chicago, IL",EMP-857667,Assistant Manager,False,2023-04-21,active
+12,2,David Chen,"249 Somerset Ave, Chicago, IL",EMP-453663,Front Desk Agent,False,2020-01-15,active
+13,2,James Reid,"798 Somerset Ave, Chicago, IL",EMP-659809,Front Desk Agent,False,2022-04-20,active
+14,2,Gabriel Clarke,"24 York Ave, Chicago, IL",EMP-952291,Night Auditor,False,2021-04-09,active
+15,2,Aria Baker,"114 York Ave, Chicago, IL",EMP-728154,Concierge,False,2023-03-23,active
+16,2,Gabriel Carter,"186 Pine Ave, Chicago, IL",EMP-543108,Housekeeping Supervisor,False,2023-02-02,active
+17,2,Amelia Nguyen,"436 Pine Ave, Chicago, IL",EMP-667507,Revenue Analyst,False,2024-06-20,active
+18,2,Mia Turner,"340 Pine Ave, Chicago, IL",EMP-967509,Maintenance Coordinator,False,2025-10-15,active
+19,3,Ava Murphy,"40 Somerset Ave, Calgary, AB",EMP-902688,General Manager,True,2024-01-01,active
+20,3,Leah Price,"673 Wellington Ave, Calgary, AB",EMP-949368,Assistant Manager,False,2025-05-13,active
+21,3,Hannah Mitchell,"735 Bank Ave, Calgary, AB",EMP-613572,Front Desk Agent,False,2021-02-22,active
+22,3,Adam Carter,"354 Bank Ave, Calgary, AB",EMP-351461,Front Desk Agent,False,2021-01-07,active
+23,3,Fatima Baker,"255 Wellington Ave, Calgary, AB",EMP-999931,Night Auditor,False,2025-08-20,active
+24,3,Charlotte Turner,"334 Somerset Ave, Calgary, AB",EMP-914234,Concierge,False,2022-11-22,active
+25,3,Leah Reid,"883 Somerset Ave, Calgary, AB",EMP-982523,Housekeeping Supervisor,False,2019-11-16,active
+26,3,Harper Baker,"641 Bank Ave, Calgary, AB",EMP-415148,Revenue Analyst,False,2025-07-27,active
+27,3,Henry Singh,"87 Pine Ave, Calgary, AB",EMP-714475,Maintenance Coordinator,False,2021-02-12,active
+28,4,Jasmine Patel,"745 Pine Ave, Seattle, WA",EMP-896677,General Manager,True,2020-04-21,active
+29,4,Anika Turner,"850 Wellington Ave, Seattle, WA",EMP-724686,Assistant Manager,False,2025-09-03,active
+30,4,Lily Miller,"120 Pine Ave, Seattle, WA",EMP-677805,Front Desk Agent,False,2021-08-13,active
+31,4,David Walker,"216 Harbour Ave, Seattle, WA",EMP-374119,Front Desk Agent,False,2021-02-28,active
+32,4,Jack Kim,"823 York Ave, Seattle, WA",EMP-156777,Night Auditor,False,2024-03-23,active
+33,4,Amelia Patel,"378 Wellington Ave, Seattle, WA",EMP-187135,Concierge,False,2021-02-02,active
+34,4,Emma Tremblay,"779 Pine Ave, Seattle, WA",EMP-884663,Housekeeping Supervisor,False,2023-01-27,active
+35,4,Alexander Murphy,"381 Pine Ave, Seattle, WA",EMP-845917,Revenue Analyst,False,2023-11-14,active
+36,4,Camille Baker,"87 Wellington Ave, Seattle, WA",EMP-497678,Maintenance Coordinator,False,2024-07-31,active
+37,5,Amelia Wright,"187 Pine Ave, Boston, MA",EMP-717147,General Manager,True,2022-04-28,active
+38,5,Harper Nguyen,"536 Pine Ave, Boston, MA",EMP-631235,Assistant Manager,False,2021-08-20,active
+39,5,Hannah Nguyen,"853 Bank Ave, Boston, MA",EMP-958047,Front Desk Agent,False,2020-12-04,active
+40,5,Lucas Shah,"668 York Ave, Boston, MA",EMP-742166,Front Desk Agent,False,2023-03-11,active
+41,5,Mia Wright,"361 York Ave, Boston, MA",EMP-591467,Night Auditor,False,2020-10-11,active
+42,5,Mia Turner,"813 Wellington Ave, Boston, MA",EMP-119501,Concierge,False,2025-02-08,active
+43,5,Henry Kim,"842 York Ave, Boston, MA",EMP-803478,Housekeeping Supervisor,False,2023-01-05,active
+44,5,Liam Diaz,"671 Harbour Ave, Boston, MA",EMP-773095,Revenue Analyst,False,2023-11-26,active
+45,5,Leah Johnson,"505 York Ave, Boston, MA",EMP-984948,Maintenance Coordinator,False,2021-06-29,active
+46,6,Evelyn Diaz,"895 Wellington Ave, Vancouver, BC",EMP-572942,General Manager,True,2019-06-12,active
+47,6,Mila Bennett,"538 York Ave, Vancouver, BC",EMP-404257,Assistant Manager,False,2022-03-05,active
+48,6,Noah Walker,"542 Wellington Ave, Vancouver, BC",EMP-621363,Front Desk Agent,False,2022-12-10,active
+49,6,Sebastian Young,"283 Harbour Ave, Vancouver, BC",EMP-260117,Front Desk Agent,False,2019-01-28,active
+50,6,Leo Singh,"370 York Ave, Vancouver, BC",EMP-760095,Night Auditor,False,2025-01-24,active
+51,6,Hannah Ahmed,"163 Somerset Ave, Vancouver, BC",EMP-396187,Concierge,False,2020-07-05,active
+52,6,Adam Scott,"439 Harbour Ave, Vancouver, BC",EMP-576014,Housekeeping Supervisor,False,2025-03-02,active
+53,6,Owen Roy,"540 Harbour Ave, Vancouver, BC",EMP-860287,Revenue Analyst,False,2025-03-13,active
+54,6,Hannah Scott,"775 Harbour Ave, Vancouver, BC",EMP-522563,Maintenance Coordinator,False,2020-02-16,active
+55,7,Henry Lefebvre,"812 Somerset Ave, Ottawa, ON",EMP-810896,General Manager,True,2023-11-10,active
+56,7,Adam Hill,"852 Somerset Ave, Ottawa, ON",EMP-783365,Assistant Manager,False,2019-05-09,active
+57,7,Nora Ross,"672 Bank Ave, Ottawa, ON",EMP-730464,Front Desk Agent,False,2025-01-20,active
+58,7,Henry Kim,"234 Pine Ave, Ottawa, ON",EMP-463582,Front Desk Agent,False,2025-06-05,active
+59,7,Emma Wilson,"605 York Ave, Ottawa, ON",EMP-317887,Night Auditor,False,2019-11-20,active
+60,7,Grace Ross,"601 Somerset Ave, Ottawa, ON",EMP-593431,Concierge,False,2020-04-29,active
+61,7,Aiden Price,"194 York Ave, Ottawa, ON",EMP-842577,Housekeeping Supervisor,False,2024-07-13,active
+62,7,Camille Chen,"408 Bank Ave, Ottawa, ON",EMP-173957,Revenue Analyst,False,2023-07-27,active
+63,7,Liam Chen,"831 Harbour Ave, Ottawa, ON",EMP-978775,Maintenance Coordinator,False,2020-06-02,active
+64,8,Daniel Lefebvre,"279 York Ave, Ottawa, ON",EMP-249104,General Manager,True,2019-06-15,active
+65,8,Anika Tremblay,"472 York Ave, Ottawa, ON",EMP-412613,Assistant Manager,False,2023-02-26,active
+66,8,Mason Price,"478 Wellington Ave, Ottawa, ON",EMP-636002,Front Desk Agent,False,2022-10-25,active
+67,8,Fatima Martin,"381 Pine Ave, Ottawa, ON",EMP-110191,Front Desk Agent,False,2019-04-20,active
+68,8,Sophia Singh,"342 Bank Ave, Ottawa, ON",EMP-472989,Night Auditor,False,2023-01-06,active
+69,8,Sebastian Singh,"645 Somerset Ave, Ottawa, ON",EMP-751313,Concierge,False,2020-03-31,active
+70,8,Theodore Lopez,"797 Harbour Ave, Ottawa, ON",EMP-503458,Housekeeping Supervisor,False,2023-03-15,active
+71,8,Olivia Diaz,"649 Harbour Ave, Ottawa, ON",EMP-426107,Revenue Analyst,False,2020-03-09,active
+72,8,Leo Turner,"57 York Ave, Ottawa, ON",EMP-684733,Maintenance Coordinator,False,2019-05-17,active
+73,9,Ethan Ross,"653 Bank Ave, Ottawa, ON",EMP-155368,General Manager,True,2023-11-13,active
+74,9,Zoe Lopez,"753 Pine Ave, Ottawa, ON",EMP-212845,Assistant Manager,False,2019-04-08,active
+75,9,Sarah Roy,"429 Bank Ave, Ottawa, ON",EMP-674656,Front Desk Agent,False,2021-12-01,active
+76,9,Theodore Patel,"335 Bank Ave, Ottawa, ON",EMP-846748,Front Desk Agent,False,2019-02-07,active
+77,9,Sebastian Clarke,"295 Harbour Ave, Ottawa, ON",EMP-483355,Night Auditor,False,2024-05-22,active
+78,9,Lucas Young,"62 Somerset Ave, Ottawa, ON",EMP-630176,Concierge,False,2020-12-16,active
+79,9,Leah Wilson,"854 Pine Ave, Ottawa, ON",EMP-859522,Housekeeping Supervisor,False,2020-12-16,active
+80,9,Harper Khan,"152 Somerset Ave, Ottawa, ON",EMP-788521,Revenue Analyst,False,2021-12-12,active
+81,9,Liam Clarke,"441 Somerset Ave, Ottawa, ON",EMP-796056,Maintenance Coordinator,False,2024-09-18,active
+82,10,Grace Baker,"52 Pine Ave, Toronto, ON",EMP-865104,General Manager,True,2024-01-29,active
+83,10,Henry Chen,"848 Bank Ave, Toronto, ON",EMP-201373,Assistant Manager,False,2024-07-10,active
+84,10,Isaac Walker,"768 Bank Ave, Toronto, ON",EMP-888863,Front Desk Agent,False,2019-01-22,active
+85,10,Lucas Mitchell,"256 Pine Ave, Toronto, ON",EMP-733232,Front Desk Agent,False,2024-04-25,active
+86,10,Sophia Singh,"825 Somerset Ave, Toronto, ON",EMP-686669,Night Auditor,False,2019-08-22,active
+87,10,Fatima Clarke,"285 Somerset Ave, Toronto, ON",EMP-740684,Concierge,False,2022-06-22,active
+88,10,Amelia Chen,"794 York Ave, Toronto, ON",EMP-684944,Housekeeping Supervisor,False,2019-11-13,active
+89,10,Ethan Clarke,"30 Harbour Ave, Toronto, ON",EMP-650598,Revenue Analyst,False,2019-11-01,active
+90,10,James Reid,"542 Bank Ave, Toronto, ON",EMP-594751,Maintenance Coordinator,False,2024-04-22,active
+91,11,Anika Singh,"480 Pine Ave, Seattle, WA",EMP-225049,General Manager,True,2019-12-09,active
+92,11,Nora Patel,"417 Somerset Ave, Seattle, WA",EMP-163192,Assistant Manager,False,2025-03-08,active
+93,11,Layla Singh,"737 Harbour Ave, Seattle, WA",EMP-215779,Front Desk Agent,False,2024-12-15,active
+94,11,Adam Tremblay,"345 Wellington Ave, Seattle, WA",EMP-656936,Front Desk Agent,False,2019-08-24,active
+95,11,Mila Murphy,"745 Somerset Ave, Seattle, WA",EMP-422941,Night Auditor,False,2019-02-27,active
+96,11,Hannah Parker,"627 Harbour Ave, Seattle, WA",EMP-872112,Concierge,False,2021-08-12,active
+97,11,Sarah Baker,"679 Bank Ave, Seattle, WA",EMP-986778,Housekeeping Supervisor,False,2024-08-27,active
+98,11,Leah Kim,"894 Bank Ave, Seattle, WA",EMP-501752,Revenue Analyst,False,2019-12-20,active
+99,11,Sebastian Hill,"203 Bank Ave, Seattle, WA",EMP-247459,Maintenance Coordinator,False,2021-09-29,active
+100,12,Sophia Khan,"34 Bank Ave, Calgary, AB",EMP-820516,General Manager,True,2021-09-09,active
+101,12,Emma Ross,"143 Pine Ave, Calgary, AB",EMP-544696,Assistant Manager,False,2024-12-08,active
+102,12,Lily Hill,"590 Pine Ave, Calgary, AB",EMP-297077,Front Desk Agent,False,2019-12-15,active
+103,12,Layla Wilson,"628 Pine Ave, Calgary, AB",EMP-953564,Front Desk Agent,False,2025-04-23,active
+104,12,Amelia Roy,"302 Pine Ave, Calgary, AB",EMP-498203,Night Auditor,False,2020-11-17,active
+105,12,Theodore Ross,"631 Bank Ave, Calgary, AB",EMP-898337,Concierge,False,2021-02-14,active
+106,12,Jasmine Wilson,"468 Harbour Ave, Calgary, AB",EMP-222798,Housekeeping Supervisor,False,2025-06-14,active
+107,12,Chloe Ahmed,"808 Pine Ave, Calgary, AB",EMP-617820,Revenue Analyst,False,2024-01-02,active
+108,12,Camille Walker,"887 Bank Ave, Calgary, AB",EMP-217133,Maintenance Coordinator,False,2020-03-04,active
+109,13,Nathan Miller,"634 Pine Ave, Ottawa, ON",EMP-941969,General Manager,True,2022-05-06,active
+110,13,Henry Miller,"826 Bank Ave, Ottawa, ON",EMP-867954,Assistant Manager,False,2022-08-06,active
+111,13,Thomas Lopez,"780 Pine Ave, Ottawa, ON",EMP-932610,Front Desk Agent,False,2023-06-19,active
+112,13,James Chen,"387 Bank Ave, Ottawa, ON",EMP-564498,Front Desk Agent,False,2020-03-04,active
+113,13,Mila Wilson,"313 Somerset Ave, Ottawa, ON",EMP-463149,Night Auditor,False,2021-10-25,active
+114,13,Isabella Price,"402 Pine Ave, Ottawa, ON",EMP-473966,Concierge,False,2019-04-12,active
+115,13,Ava Hill,"386 Wellington Ave, Ottawa, ON",EMP-674879,Housekeeping Supervisor,False,2022-06-08,active
+116,13,Ethan Clarke,"220 Pine Ave, Ottawa, ON",EMP-518294,Revenue Analyst,False,2019-11-23,active
+117,13,Victor Shah,"592 Somerset Ave, Ottawa, ON",EMP-351963,Maintenance Coordinator,False,2022-05-22,active
+118,14,Harper Mitchell,"69 Pine Ave, Montréal, QC",EMP-408001,General Manager,True,2019-02-10,active
+119,14,Nathan Price,"139 Harbour Ave, Montréal, QC",EMP-414239,Assistant Manager,False,2024-01-21,active
+120,14,Thomas Miller,"91 Pine Ave, Montréal, QC",EMP-513903,Front Desk Agent,False,2020-05-08,active
+121,14,Jasmine Singh,"800 Harbour Ave, Montréal, QC",EMP-711152,Front Desk Agent,False,2023-12-05,active
+122,14,Leah Rivera,"543 Somerset Ave, Montréal, QC",EMP-734692,Night Auditor,False,2022-08-22,active
+123,14,Gabriel Wilson,"558 Wellington Ave, Montréal, QC",EMP-435504,Concierge,False,2023-08-26,active
+124,14,Thomas Khan,"559 Somerset Ave, Montréal, QC",EMP-830441,Housekeeping Supervisor,False,2019-11-27,active
+125,14,Thomas Turner,"714 Wellington Ave, Montréal, QC",EMP-656642,Revenue Analyst,False,2023-12-21,active
+126,14,Nora Reid,"357 Somerset Ave, Montréal, QC",EMP-215547,Maintenance Coordinator,False,2021-01-11,active
+127,15,Isabella Miller,"426 Harbour Ave, Toronto, ON",EMP-270031,General Manager,True,2020-06-22,active
+128,15,Mason Rivera,"559 York Ave, Toronto, ON",EMP-821132,Assistant Manager,False,2024-03-19,active
+129,15,Victor Baker,"804 Bank Ave, Toronto, ON",EMP-754188,Front Desk Agent,False,2025-11-01,active
+130,15,Camille Bennett,"226 Bank Ave, Toronto, ON",EMP-982261,Front Desk Agent,False,2021-09-22,active
+131,15,Owen Kim,"653 Bank Ave, Toronto, ON",EMP-329069,Night Auditor,False,2023-04-25,active
+132,15,Grace Tremblay,"163 Pine Ave, Toronto, ON",EMP-570942,Concierge,False,2022-08-01,active
+133,15,Thomas Ahmed,"515 Pine Ave, Toronto, ON",EMP-649238,Housekeeping Supervisor,False,2022-05-15,active
+134,15,Nora Carter,"712 Wellington Ave, Toronto, ON",EMP-309000,Revenue Analyst,False,2021-03-13,active
+135,15,Hannah Wright,"662 Bank Ave, Toronto, ON",EMP-347358,Maintenance Coordinator,False,2025-12-21,active
+136,16,Jasmine Khan,"834 Somerset Ave, Toronto, ON",EMP-424387,General Manager,True,2022-11-27,active
+137,16,Sarah Johnson,"156 Harbour Ave, Toronto, ON",EMP-348607,Assistant Manager,False,2019-01-18,active
+138,16,Chloe Chen,"788 Somerset Ave, Toronto, ON",EMP-924703,Front Desk Agent,False,2025-10-19,active
+139,16,Leah Lefebvre,"186 Wellington Ave, Toronto, ON",EMP-268415,Front Desk Agent,False,2025-05-24,active
+140,16,Harper Carter,"731 Wellington Ave, Toronto, ON",EMP-118418,Night Auditor,False,2023-05-25,active
+141,16,Adam Singh,"858 Pine Ave, Toronto, ON",EMP-295759,Concierge,False,2021-10-24,active
+142,16,Benjamin Kim,"648 Bank Ave, Toronto, ON",EMP-342510,Housekeeping Supervisor,False,2025-12-09,active
+143,16,Aria Diaz,"181 York Ave, Toronto, ON",EMP-690109,Revenue Analyst,False,2022-02-26,active
+144,16,Noah Ross,"223 York Ave, Toronto, ON",EMP-798521,Maintenance Coordinator,False,2022-09-25,active
+145,17,Leah Martin,"866 Wellington Ave, Ottawa, ON",EMP-240292,General Manager,True,2020-04-12,active
+146,17,Sophia Ross,"129 Pine Ave, Ottawa, ON",EMP-790424,Assistant Manager,False,2020-06-21,active
+147,17,Charlotte Wright,"505 Wellington Ave, Ottawa, ON",EMP-564068,Front Desk Agent,False,2023-04-25,active
+148,17,Alexander Walker,"71 Wellington Ave, Ottawa, ON",EMP-397444,Front Desk Agent,False,2022-10-28,active
+149,17,Harper Lefebvre,"206 York Ave, Ottawa, ON",EMP-134774,Night Auditor,False,2023-03-02,active
+150,17,Lucas Wilson,"552 York Ave, Ottawa, ON",EMP-743707,Concierge,False,2020-10-12,active
+151,17,Camille Mitchell,"651 Bank Ave, Ottawa, ON",EMP-605085,Housekeeping Supervisor,False,2021-03-10,active
+152,17,Mia Hill,"597 Pine Ave, Ottawa, ON",EMP-536766,Revenue Analyst,False,2023-04-23,active
+153,17,Lucas Shah,"256 Wellington Ave, Ottawa, ON",EMP-598828,Maintenance Coordinator,False,2023-05-21,active
+154,18,Ava Walker,"167 Bank Ave, Boston, MA",EMP-541633,General Manager,True,2020-09-22,active
+155,18,Layla Young,"372 York Ave, Boston, MA",EMP-479252,Assistant Manager,False,2024-02-04,active
+156,18,Julian Roy,"407 Wellington Ave, Boston, MA",EMP-590054,Front Desk Agent,False,2022-01-25,active
+157,18,Camille Chen,"872 Pine Ave, Boston, MA",EMP-979514,Front Desk Agent,False,2023-12-26,active
+158,18,David Scott,"559 Somerset Ave, Boston, MA",EMP-829599,Night Auditor,False,2024-10-11,active
+159,18,Emma Murphy,"603 Wellington Ave, Boston, MA",EMP-519984,Concierge,False,2019-05-11,active
+160,18,Sophia Mitchell,"491 Pine Ave, Boston, MA",EMP-340763,Housekeeping Supervisor,False,2020-06-26,active
+161,18,Alexander Mitchell,"403 Wellington Ave, Boston, MA",EMP-393672,Revenue Analyst,False,2025-01-01,active
+162,18,Lily Mitchell,"325 Bank Ave, Boston, MA",EMP-601734,Maintenance Coordinator,False,2025-04-11,active
+163,19,Aiden Wilson,"92 York Ave, Seattle, WA",EMP-487274,General Manager,True,2019-10-27,active
+164,19,Aria Bennett,"731 Wellington Ave, Seattle, WA",EMP-476262,Assistant Manager,False,2022-03-24,active
+165,19,Benjamin Carter,"783 Bank Ave, Seattle, WA",EMP-720701,Front Desk Agent,False,2021-01-29,active
+166,19,Emma Lopez,"640 Somerset Ave, Seattle, WA",EMP-722440,Front Desk Agent,False,2024-07-10,active
+167,19,Adam Young,"740 Harbour Ave, Seattle, WA",EMP-824575,Night Auditor,False,2021-01-07,active
+168,19,James Baker,"814 Wellington Ave, Seattle, WA",EMP-952874,Concierge,False,2020-07-18,active
+169,19,Owen Khan,"528 Harbour Ave, Seattle, WA",EMP-139768,Housekeeping Supervisor,False,2025-10-13,active
+170,19,Gabriel Price,"259 Wellington Ave, Seattle, WA",EMP-560809,Revenue Analyst,False,2023-10-14,active
+171,19,Noah Carter,"823 Somerset Ave, Seattle, WA",EMP-361950,Maintenance Coordinator,False,2020-03-27,active
+172,20,James Clarke,"881 York Ave, Chicago, IL",EMP-922212,General Manager,True,2021-11-19,active
+173,20,Mia Khan,"421 Somerset Ave, Chicago, IL",EMP-540992,Assistant Manager,False,2025-02-17,active
+174,20,Charlotte Tremblay,"187 Wellington Ave, Chicago, IL",EMP-736542,Front Desk Agent,False,2022-09-26,active
+175,20,Chloe Johnson,"869 Wellington Ave, Chicago, IL",EMP-360576,Front Desk Agent,False,2020-05-08,active
+176,20,Julian Murphy,"641 Wellington Ave, Chicago, IL",EMP-138328,Night Auditor,False,2019-04-04,active
+177,20,Leah Shah,"681 York Ave, Chicago, IL",EMP-119908,Concierge,False,2024-01-24,active
+178,20,Owen Lopez,"408 York Ave, Chicago, IL",EMP-565554,Housekeeping Supervisor,False,2022-01-08,active
+179,20,Sophia Clarke,"571 York Ave, Chicago, IL",EMP-347713,Revenue Analyst,False,2024-09-15,active
+180,20,Theodore Nguyen,"621 Pine Ave, Chicago, IL",EMP-537656,Maintenance Coordinator,False,2021-01-09,active
+181,21,Julian Bennett,"138 Bank Ave, Ottawa, ON",EMP-785406,General Manager,True,2019-07-27,active
+182,21,Thomas Diaz,"297 Pine Ave, Ottawa, ON",EMP-765167,Assistant Manager,False,2020-08-03,active
+183,21,Mason Bennett,"125 York Ave, Ottawa, ON",EMP-222698,Front Desk Agent,False,2022-07-24,active
+184,21,Daniel Ahmed,"71 Somerset Ave, Ottawa, ON",EMP-582525,Front Desk Agent,False,2022-09-22,active
+185,21,Benjamin Carter,"494 Somerset Ave, Ottawa, ON",EMP-794956,Night Auditor,False,2025-12-05,active
+186,21,Evelyn Reid,"62 Pine Ave, Ottawa, ON",EMP-516467,Concierge,False,2021-11-18,active
+187,21,Grace Kelly,"90 Wellington Ave, Ottawa, ON",EMP-390620,Housekeeping Supervisor,False,2025-08-26,active
+188,21,Camille Scott,"527 Pine Ave, Ottawa, ON",EMP-124724,Revenue Analyst,False,2019-09-25,active
+189,21,Julian Nguyen,"748 York Ave, Ottawa, ON",EMP-929239,Maintenance Coordinator,False,2023-11-20,active
+190,22,Sebastian Patel,"26 Pine Ave, Montréal, QC",EMP-764855,General Manager,True,2021-03-13,active
+191,22,Daniel Lopez,"52 Bank Ave, Montréal, QC",EMP-432167,Assistant Manager,False,2022-09-28,active
+192,22,Nathan Roy,"578 York Ave, Montréal, QC",EMP-470261,Front Desk Agent,False,2019-11-22,active
+193,22,James Ahmed,"428 York Ave, Montréal, QC",EMP-630491,Front Desk Agent,False,2021-08-31,active
+194,22,Nora Chen,"218 York Ave, Montréal, QC",EMP-421171,Night Auditor,False,2019-06-13,active
+195,22,Fatima Roy,"712 Somerset Ave, Montréal, QC",EMP-856057,Concierge,False,2020-02-11,active
+196,22,Alexander Rivera,"785 York Ave, Montréal, QC",EMP-748307,Housekeeping Supervisor,False,2021-11-25,active
+197,22,Emma Ross,"164 Harbour Ave, Montréal, QC",EMP-931970,Revenue Analyst,False,2023-05-06,active
+198,22,Grace Wilson,"135 York Ave, Montréal, QC",EMP-125837,Maintenance Coordinator,False,2019-09-02,active
+199,23,Lucas Singh,"676 York Ave, Toronto, ON",EMP-715345,General Manager,True,2022-05-26,active
+200,23,Ava Reid,"532 Somerset Ave, Toronto, ON",EMP-848739,Assistant Manager,False,2019-04-18,active
+201,23,Grace Murphy,"334 Bank Ave, Toronto, ON",EMP-650600,Front Desk Agent,False,2019-01-10,active
+202,23,Fatima Lefebvre,"346 Bank Ave, Toronto, ON",EMP-723410,Front Desk Agent,False,2025-02-25,active
+203,23,Isabella Diaz,"46 Wellington Ave, Toronto, ON",EMP-960354,Night Auditor,False,2023-09-28,active
+204,23,Theodore Rivera,"349 Bank Ave, Toronto, ON",EMP-247960,Concierge,False,2025-03-25,active
+205,23,Jack Lopez,"602 Bank Ave, Toronto, ON",EMP-139113,Housekeeping Supervisor,False,2019-12-19,active
+206,23,Nathan Wilson,"834 Pine Ave, Toronto, ON",EMP-470335,Revenue Analyst,False,2021-09-13,active
+207,23,Isaac Johnson,"418 Somerset Ave, Toronto, ON",EMP-482559,Maintenance Coordinator,False,2024-06-22,active
+208,24,Leo Miller,"165 Pine Ave, Vancouver, BC",EMP-451039,General Manager,True,2024-12-04,active
+209,24,Ava Johnson,"228 Harbour Ave, Vancouver, BC",EMP-334970,Assistant Manager,False,2022-04-15,active
+210,24,Adam Kelly,"612 Somerset Ave, Vancouver, BC",EMP-130158,Front Desk Agent,False,2022-04-22,active
+211,24,Benjamin Diaz,"385 Harbour Ave, Vancouver, BC",EMP-630587,Front Desk Agent,False,2025-07-28,active
+212,24,Charlotte Scott,"381 Pine Ave, Vancouver, BC",EMP-188838,Night Auditor,False,2020-01-25,active
+213,24,Emma Wright,"350 Somerset Ave, Vancouver, BC",EMP-173004,Concierge,False,2019-06-03,active
+214,24,Victor Khan,"371 Bank Ave, Vancouver, BC",EMP-306329,Housekeeping Supervisor,False,2023-11-11,active
+215,24,Hannah Kim,"875 Harbour Ave, Vancouver, BC",EMP-590536,Revenue Analyst,False,2019-06-04,active
+216,24,Ethan Kelly,"424 Pine Ave, Vancouver, BC",EMP-624916,Maintenance Coordinator,False,2020-12-29,active
+217,25,Hannah Wright,"38 Harbour Ave, Chicago, IL",EMP-975715,General Manager,True,2021-06-23,active
+218,25,Adam Diaz,"874 Wellington Ave, Chicago, IL",EMP-469775,Assistant Manager,False,2025-09-27,active
+219,25,Mia Clarke,"812 Bank Ave, Chicago, IL",EMP-501534,Front Desk Agent,False,2020-05-26,active
+220,25,Elijah Lefebvre,"818 Wellington Ave, Chicago, IL",EMP-775648,Front Desk Agent,False,2021-12-29,active
+221,25,Aiden Ahmed,"829 York Ave, Chicago, IL",EMP-938912,Night Auditor,False,2023-02-17,active
+222,25,Isaac Turner,"155 Somerset Ave, Chicago, IL",EMP-707106,Concierge,False,2021-03-26,active
+223,25,Ava Scott,"30 Pine Ave, Chicago, IL",EMP-302381,Housekeeping Supervisor,False,2024-06-19,active
+224,25,Noah Parker,"804 Wellington Ave, Chicago, IL",EMP-619544,Revenue Analyst,False,2022-10-15,active
+225,25,Harper Johnson,"501 Wellington Ave, Chicago, IL",EMP-998142,Maintenance Coordinator,False,2021-06-27,active
+226,26,Theodore Price,"873 Somerset Ave, Montréal, QC",EMP-681336,General Manager,True,2024-05-26,active
+227,26,Emma Ross,"513 Pine Ave, Montréal, QC",EMP-341108,Assistant Manager,False,2023-02-20,active
+228,26,Jasmine Scott,"124 Wellington Ave, Montréal, QC",EMP-120825,Front Desk Agent,False,2022-01-21,active
+229,26,Chloe Miller,"754 York Ave, Montréal, QC",EMP-625534,Front Desk Agent,False,2022-10-08,active
+230,26,Leah Nguyen,"685 Wellington Ave, Montréal, QC",EMP-991258,Night Auditor,False,2024-10-03,active
+231,26,Daniel Tremblay,"66 Somerset Ave, Montréal, QC",EMP-688340,Concierge,False,2021-04-29,active
+232,26,Thomas Murphy,"199 Somerset Ave, Montréal, QC",EMP-159797,Housekeeping Supervisor,False,2024-02-16,active
+233,26,Olivia Johnson,"850 Pine Ave, Montréal, QC",EMP-485745,Revenue Analyst,False,2019-03-15,active
+234,26,Mason Nguyen,"530 Harbour Ave, Montréal, QC",EMP-474855,Maintenance Coordinator,False,2025-09-14,active
+235,27,Daniel Turner,"548 Somerset Ave, Boston, MA",EMP-347344,General Manager,True,2023-06-01,active
+236,27,Noah Parker,"338 Harbour Ave, Boston, MA",EMP-830784,Assistant Manager,False,2020-07-10,active
+237,27,Hannah Walker,"591 Harbour Ave, Boston, MA",EMP-763627,Front Desk Agent,False,2020-09-22,active
+238,27,James Wilson,"890 York Ave, Boston, MA",EMP-370202,Front Desk Agent,False,2020-10-12,active
+239,27,Mia Gagnon,"507 Wellington Ave, Boston, MA",EMP-887758,Night Auditor,False,2021-06-13,active
+240,27,Adam Scott,"186 Bank Ave, Boston, MA",EMP-371613,Concierge,False,2022-08-26,active
+241,27,Lily Ahmed,"252 Bank Ave, Boston, MA",EMP-420854,Housekeeping Supervisor,False,2021-10-03,active
+242,27,Nora Rivera,"517 Pine Ave, Boston, MA",EMP-689672,Revenue Analyst,False,2021-11-03,active
+243,27,Leah Roy,"117 Bank Ave, Boston, MA",EMP-706208,Maintenance Coordinator,False,2020-08-16,active
+244,28,Sarah Murphy,"242 Harbour Ave, Ottawa, ON",EMP-713896,General Manager,True,2020-10-13,active
+245,28,Theodore Ahmed,"612 Pine Ave, Ottawa, ON",EMP-552232,Assistant Manager,False,2022-07-22,active
+246,28,Emma Baker,"47 Bank Ave, Ottawa, ON",EMP-732869,Front Desk Agent,False,2024-08-08,active
+247,28,Ava Tremblay,"84 Wellington Ave, Ottawa, ON",EMP-370370,Front Desk Agent,False,2019-04-18,active
+248,28,Mila Young,"458 York Ave, Ottawa, ON",EMP-244716,Night Auditor,False,2023-04-10,active
+249,28,Harper Ahmed,"667 York Ave, Ottawa, ON",EMP-733327,Concierge,False,2022-05-01,active
+250,28,Olivia Clarke,"346 Somerset Ave, Ottawa, ON",EMP-354572,Housekeeping Supervisor,False,2024-07-02,active
+251,28,Charlotte Martin,"796 Pine Ave, Ottawa, ON",EMP-914420,Revenue Analyst,False,2019-11-04,active
+252,28,Amelia Martin,"215 Somerset Ave, Ottawa, ON",EMP-258442,Maintenance Coordinator,False,2025-12-17,active
+253,29,Nathan Scott,"556 Pine Ave, Montréal, QC",EMP-528014,General Manager,True,2019-10-27,active
+254,29,Benjamin Diaz,"526 Harbour Ave, Montréal, QC",EMP-710683,Assistant Manager,False,2024-02-17,active
+255,29,Lucas Parker,"140 Wellington Ave, Montréal, QC",EMP-899389,Front Desk Agent,False,2023-09-14,active
+256,29,Zoe Singh,"673 Wellington Ave, Montréal, QC",EMP-532094,Front Desk Agent,False,2022-03-22,active
+257,29,Lucas Bennett,"342 Somerset Ave, Montréal, QC",EMP-248344,Night Auditor,False,2021-10-17,active
+258,29,Henry Wilson,"403 Somerset Ave, Montréal, QC",EMP-247771,Concierge,False,2023-07-23,active
+259,29,Evelyn Khan,"343 York Ave, Montréal, QC",EMP-181299,Housekeeping Supervisor,False,2022-03-06,active
+260,29,Alexander Ahmed,"898 Pine Ave, Montréal, QC",EMP-844457,Revenue Analyst,False,2023-08-20,active
+261,29,Leah Ross,"67 Bank Ave, Montréal, QC",EMP-573942,Maintenance Coordinator,False,2020-08-05,active
+262,30,Leo Martin,"600 Bank Ave, Calgary, AB",EMP-464882,General Manager,True,2023-11-03,active
+263,30,Thomas Price,"261 York Ave, Calgary, AB",EMP-752168,Assistant Manager,False,2023-12-01,active
+264,30,Mia Ahmed,"280 Harbour Ave, Calgary, AB",EMP-739147,Front Desk Agent,False,2022-07-03,active
+265,30,Charlotte Young,"424 Wellington Ave, Calgary, AB",EMP-364503,Front Desk Agent,False,2019-03-31,active
+266,30,Aiden Bennett,"151 Harbour Ave, Calgary, AB",EMP-614650,Night Auditor,False,2020-02-03,active
+267,30,Gabriel Murphy,"546 Wellington Ave, Calgary, AB",EMP-390606,Concierge,False,2025-12-15,active
+268,30,Lucas Roy,"165 York Ave, Calgary, AB",EMP-260606,Housekeeping Supervisor,False,2023-03-25,active
+269,30,Hannah Tremblay,"474 Somerset Ave, Calgary, AB",EMP-302911,Revenue Analyst,False,2023-02-19,active
+270,30,Sophia Carter,"184 Wellington Ave, Calgary, AB",EMP-853691,Maintenance Coordinator,False,2023-03-26,active
+271,31,Gabriel Ahmed,"272 Pine Ave, Seattle, WA",EMP-585767,General Manager,True,2024-04-25,active
+272,31,Olivia Wright,"613 Somerset Ave, Seattle, WA",EMP-556680,Assistant Manager,False,2022-06-14,active
+273,31,Ethan Wilson,"495 Pine Ave, Seattle, WA",EMP-161985,Front Desk Agent,False,2024-10-13,active
+274,31,Layla Diaz,"93 Harbour Ave, Seattle, WA",EMP-291821,Front Desk Agent,False,2023-08-24,active
+275,31,Charlotte Kim,"45 Somerset Ave, Seattle, WA",EMP-364569,Night Auditor,False,2025-01-28,active
+276,31,Harper Turner,"686 Bank Ave, Seattle, WA",EMP-553530,Concierge,False,2019-05-07,active
+277,31,Grace Kelly,"236 Pine Ave, Seattle, WA",EMP-101768,Housekeeping Supervisor,False,2019-09-24,active
+278,31,Grace Tremblay,"61 Pine Ave, Seattle, WA",EMP-944116,Revenue Analyst,False,2022-03-18,active
+279,31,Daniel Nguyen,"478 Harbour Ave, Seattle, WA",EMP-252604,Maintenance Coordinator,False,2024-04-25,active
+280,32,Benjamin Young,"665 Harbour Ave, Boston, MA",EMP-153015,General Manager,True,2019-04-15,active
+281,32,Anika Walker,"621 Bank Ave, Boston, MA",EMP-681593,Assistant Manager,False,2021-03-26,active
+282,32,Lily Clarke,"261 Bank Ave, Boston, MA",EMP-203537,Front Desk Agent,False,2022-09-17,active
+283,32,Charlotte Wright,"463 Pine Ave, Boston, MA",EMP-976789,Front Desk Agent,False,2023-04-25,active
+284,32,Sarah Chen,"232 Wellington Ave, Boston, MA",EMP-819707,Night Auditor,False,2023-01-04,active
+285,32,Jasmine Gagnon,"129 Somerset Ave, Boston, MA",EMP-698873,Concierge,False,2020-10-09,active
+286,32,Evelyn Rivera,"541 Wellington Ave, Boston, MA",EMP-240468,Housekeeping Supervisor,False,2021-09-10,active
+287,32,Ava Johnson,"60 York Ave, Boston, MA",EMP-489083,Revenue Analyst,False,2019-08-04,active
+288,32,Leah Shah,"543 Bank Ave, Boston, MA",EMP-228108,Maintenance Coordinator,False,2019-11-16,active
+289,33,Mila Kim,"136 Pine Ave, Ottawa, ON",EMP-240509,General Manager,True,2025-06-03,active
+290,33,Alexander Johnson,"824 Wellington Ave, Ottawa, ON",EMP-805305,Assistant Manager,False,2020-09-14,active
+291,33,Olivia Gagnon,"878 Harbour Ave, Ottawa, ON",EMP-440985,Front Desk Agent,False,2023-04-27,active
+292,33,Nathan Tremblay,"264 Wellington Ave, Ottawa, ON",EMP-463351,Front Desk Agent,False,2023-05-04,active
+293,33,Owen Kelly,"777 Pine Ave, Ottawa, ON",EMP-699811,Night Auditor,False,2021-05-13,active
+294,33,Benjamin Price,"577 Bank Ave, Ottawa, ON",EMP-777942,Concierge,False,2019-09-21,active
+295,33,Anika Kim,"311 Somerset Ave, Ottawa, ON",EMP-888748,Housekeeping Supervisor,False,2020-02-21,active
+296,33,Amelia Mitchell,"94 Somerset Ave, Ottawa, ON",EMP-389005,Revenue Analyst,False,2019-12-20,active
+297,33,Sophia Singh,"505 Harbour Ave, Ottawa, ON",EMP-435496,Maintenance Coordinator,False,2021-06-22,active
+298,34,Jasmine Baker,"552 Harbour Ave, Ottawa, ON",EMP-715632,General Manager,True,2023-08-09,active
+299,34,Nora Hill,"255 Wellington Ave, Ottawa, ON",EMP-759795,Assistant Manager,False,2020-05-07,active
+300,34,Hannah Mitchell,"546 Wellington Ave, Ottawa, ON",EMP-398237,Front Desk Agent,False,2020-01-30,active
+301,34,Grace Martin,"757 Bank Ave, Ottawa, ON",EMP-992242,Front Desk Agent,False,2024-05-23,active
+302,34,Harper Price,"401 York Ave, Ottawa, ON",EMP-255698,Night Auditor,False,2019-09-28,active
+303,34,Anika Ahmed,"524 York Ave, Ottawa, ON",EMP-758288,Concierge,False,2024-03-07,active
+304,34,Zoe Wright,"486 Pine Ave, Ottawa, ON",EMP-327132,Housekeeping Supervisor,False,2024-02-28,active
+305,34,Elijah Clarke,"193 Harbour Ave, Ottawa, ON",EMP-346700,Revenue Analyst,False,2020-10-18,active
+306,34,Fatima Baker,"320 Somerset Ave, Ottawa, ON",EMP-739465,Maintenance Coordinator,False,2022-05-13,active
+307,35,Isabella Tremblay,"851 Harbour Ave, Montréal, QC",EMP-985102,General Manager,True,2022-11-10,active
+308,35,Zoe Clarke,"167 Harbour Ave, Montréal, QC",EMP-383838,Assistant Manager,False,2021-06-05,active
+309,35,Evelyn Ahmed,"785 Harbour Ave, Montréal, QC",EMP-524320,Front Desk Agent,False,2021-05-31,active
+310,35,Liam Shah,"807 Bank Ave, Montréal, QC",EMP-527793,Front Desk Agent,False,2024-05-24,active
+311,35,Mason Singh,"145 York Ave, Montréal, QC",EMP-295480,Night Auditor,False,2025-08-21,active
+312,35,Adam Mitchell,"214 York Ave, Montréal, QC",EMP-694646,Concierge,False,2024-02-16,active
+313,35,Zoe Martin,"870 Harbour Ave, Montréal, QC",EMP-652475,Housekeeping Supervisor,False,2020-03-19,active
+314,35,Camille Shah,"113 Wellington Ave, Montréal, QC",EMP-729723,Revenue Analyst,False,2022-03-09,active
+315,35,Mason Johnson,"165 Bank Ave, Montréal, QC",EMP-235101,Maintenance Coordinator,False,2023-06-21,active
+316,36,Emma Gagnon,"758 York Ave, Toronto, ON",EMP-191989,General Manager,True,2020-10-30,active
+317,36,James Wright,"154 Pine Ave, Toronto, ON",EMP-951752,Assistant Manager,False,2025-09-03,active
+318,36,Aria Carter,"204 Somerset Ave, Toronto, ON",EMP-776769,Front Desk Agent,False,2025-08-10,active
+319,36,Victor Chen,"132 Somerset Ave, Toronto, ON",EMP-228569,Front Desk Agent,False,2019-04-08,active
+320,36,Isaac Hill,"120 Harbour Ave, Toronto, ON",EMP-477640,Night Auditor,False,2024-06-11,active
+321,36,Thomas Bennett,"271 Somerset Ave, Toronto, ON",EMP-858343,Concierge,False,2022-02-17,active
+322,36,Gabriel Miller,"173 Somerset Ave, Toronto, ON",EMP-533734,Housekeeping Supervisor,False,2023-11-15,active
+323,36,Camille Patel,"490 York Ave, Toronto, ON",EMP-539994,Revenue Analyst,False,2020-01-12,active
+324,36,Lucas Hill,"275 York Ave, Toronto, ON",EMP-608385,Maintenance Coordinator,False,2025-10-16,active
+325,37,Evelyn Patel,"684 Somerset Ave, Toronto, ON",EMP-468147,General Manager,True,2025-06-18,active
+326,37,Henry Price,"595 York Ave, Toronto, ON",EMP-394045,Assistant Manager,False,2024-08-19,active
+327,37,Victor Kim,"749 Harbour Ave, Toronto, ON",EMP-603688,Front Desk Agent,False,2023-12-04,active
+328,37,Henry Diaz,"478 Pine Ave, Toronto, ON",EMP-350896,Front Desk Agent,False,2023-10-23,active
+329,37,Gabriel Wilson,"250 Pine Ave, Toronto, ON",EMP-473643,Night Auditor,False,2024-10-24,active
+330,37,Jasmine Roy,"778 Harbour Ave, Toronto, ON",EMP-369142,Concierge,False,2020-02-14,active
+331,37,Isabella Gagnon,"889 Bank Ave, Toronto, ON",EMP-716170,Housekeeping Supervisor,False,2020-05-01,active
+332,37,Elijah Nguyen,"494 Wellington Ave, Toronto, ON",EMP-624471,Revenue Analyst,False,2022-09-16,active
+333,37,Henry Ahmed,"75 York Ave, Toronto, ON",EMP-311209,Maintenance Coordinator,False,2020-03-29,active
+334,38,Mia Kim,"690 York Ave, Chicago, IL",EMP-151124,General Manager,True,2020-11-22,active
+335,38,Grace Khan,"822 York Ave, Chicago, IL",EMP-595125,Assistant Manager,False,2020-10-18,active
+336,38,Isabella Hill,"573 Wellington Ave, Chicago, IL",EMP-348875,Front Desk Agent,False,2022-06-27,active
+337,38,Leah Lefebvre,"476 Bank Ave, Chicago, IL",EMP-516732,Front Desk Agent,False,2022-07-06,active
+338,38,Amelia Miller,"832 Wellington Ave, Chicago, IL",EMP-157549,Night Auditor,False,2022-07-13,active
+339,38,Ethan Turner,"340 Harbour Ave, Chicago, IL",EMP-665760,Concierge,False,2020-07-15,active
+340,38,Liam Ross,"194 York Ave, Chicago, IL",EMP-939072,Housekeeping Supervisor,False,2024-11-26,active
+341,38,Gabriel Nguyen,"817 Pine Ave, Chicago, IL",EMP-223916,Revenue Analyst,False,2020-09-18,active
+342,38,Sophia Hill,"292 Bank Ave, Chicago, IL",EMP-664330,Maintenance Coordinator,False,2021-02-10,active
+343,39,Evelyn Baker,"722 Pine Ave, Chicago, IL",EMP-345526,General Manager,True,2021-07-05,active
+344,39,Nora Diaz,"587 Pine Ave, Chicago, IL",EMP-664468,Assistant Manager,False,2021-07-14,active
+345,39,Leo Johnson,"357 Pine Ave, Chicago, IL",EMP-734792,Front Desk Agent,False,2021-02-28,active
+346,39,Grace Hill,"205 York Ave, Chicago, IL",EMP-776414,Front Desk Agent,False,2022-01-31,active
+347,39,Thomas Wilson,"294 Harbour Ave, Chicago, IL",EMP-711685,Night Auditor,False,2022-06-22,active
+348,39,Liam Kelly,"73 Somerset Ave, Chicago, IL",EMP-134249,Concierge,False,2023-02-16,active
+349,39,Liam Wilson,"450 York Ave, Chicago, IL",EMP-610970,Housekeeping Supervisor,False,2021-12-10,active
+350,39,Victor Shah,"798 Harbour Ave, Chicago, IL",EMP-388359,Revenue Analyst,False,2024-09-30,active
+351,39,Amelia Martin,"450 Somerset Ave, Chicago, IL",EMP-264551,Maintenance Coordinator,False,2019-09-01,active
+352,40,David Lefebvre,"276 Pine Ave, Calgary, AB",EMP-715321,General Manager,True,2019-01-30,active
+353,40,Lucas Patel,"750 Bank Ave, Calgary, AB",EMP-464423,Assistant Manager,False,2020-12-26,active
+354,40,Camille Tremblay,"195 Bank Ave, Calgary, AB",EMP-270698,Front Desk Agent,False,2021-05-16,active
+355,40,Chloe Lopez,"152 York Ave, Calgary, AB",EMP-933393,Front Desk Agent,False,2021-04-01,active
+356,40,Elijah Baker,"204 Wellington Ave, Calgary, AB",EMP-484825,Night Auditor,False,2019-04-27,active
+357,40,Olivia Diaz,"23 Wellington Ave, Calgary, AB",EMP-208104,Concierge,False,2025-11-22,active
+358,40,Chloe Bennett,"186 Wellington Ave, Calgary, AB",EMP-899060,Housekeeping Supervisor,False,2022-06-15,active
+359,40,Nathan Kim,"777 Bank Ave, Calgary, AB",EMP-415811,Revenue Analyst,False,2023-06-10,active
+360,40,Mila Clarke,"230 Wellington Ave, Calgary, AB",EMP-308582,Maintenance Coordinator,False,2021-04-24,active
+361,41,Chloe Lopez,"121 Harbour Ave, Chicago, IL",EMP-566197,General Manager,True,2023-12-23,active
+362,41,Aiden Lopez,"362 Somerset Ave, Chicago, IL",EMP-348148,Assistant Manager,False,2021-06-26,active
+363,41,Jasmine Patel,"762 Somerset Ave, Chicago, IL",EMP-698716,Front Desk Agent,False,2025-09-02,active
+364,41,Alexander Clarke,"494 Somerset Ave, Chicago, IL",EMP-386725,Front Desk Agent,False,2023-10-28,active
+365,41,Grace Miller,"889 Somerset Ave, Chicago, IL",EMP-247997,Night Auditor,False,2021-05-22,active
+366,41,Sebastian Lefebvre,"614 Wellington Ave, Chicago, IL",EMP-506273,Concierge,False,2023-12-20,active
+367,41,Sophia Bennett,"345 Wellington Ave, Chicago, IL",EMP-442888,Housekeeping Supervisor,False,2023-12-06,active
+368,41,Camille Patel,"738 Pine Ave, Chicago, IL",EMP-228348,Revenue Analyst,False,2019-07-22,active
+369,41,Harper Martin,"371 Pine Ave, Chicago, IL",EMP-586309,Maintenance Coordinator,False,2024-07-18,active
+370,42,Grace Roy,"133 Somerset Ave, Toronto, ON",EMP-404382,General Manager,True,2024-12-28,active
+371,42,Ethan Ross,"496 Harbour Ave, Toronto, ON",EMP-759150,Assistant Manager,False,2020-06-05,active
+372,42,Theodore Scott,"363 Harbour Ave, Toronto, ON",EMP-138122,Front Desk Agent,False,2024-06-08,active
+373,42,Leo Wright,"117 York Ave, Toronto, ON",EMP-566176,Front Desk Agent,False,2021-02-18,active
+374,42,Chloe Miller,"110 Pine Ave, Toronto, ON",EMP-871172,Night Auditor,False,2021-03-12,active
+375,42,Ethan Turner,"145 Harbour Ave, Toronto, ON",EMP-456789,Concierge,False,2022-12-08,active
+376,42,Owen Diaz,"833 Bank Ave, Toronto, ON",EMP-673682,Housekeeping Supervisor,False,2021-05-03,active
+377,42,Zoe Singh,"588 Bank Ave, Toronto, ON",EMP-500879,Revenue Analyst,False,2019-06-27,active
+378,42,Ava Carter,"438 Somerset Ave, Toronto, ON",EMP-566707,Maintenance Coordinator,False,2021-06-03,active
+379,43,Thomas Gagnon,"618 Wellington Ave, Boston, MA",EMP-651491,General Manager,True,2025-09-13,active
+380,43,Aiden Khan,"872 York Ave, Boston, MA",EMP-904068,Assistant Manager,False,2019-01-02,active
+381,43,Jack Martin,"707 Bank Ave, Boston, MA",EMP-179812,Front Desk Agent,False,2021-07-26,active
+382,43,Liam Tremblay,"886 Somerset Ave, Boston, MA",EMP-625322,Front Desk Agent,False,2021-09-21,active
+383,43,Evelyn Turner,"438 Somerset Ave, Boston, MA",EMP-179414,Night Auditor,False,2025-01-17,active
+384,43,Julian Shah,"732 Bank Ave, Boston, MA",EMP-650533,Concierge,False,2024-08-24,active
+385,43,Aiden Nguyen,"731 Pine Ave, Boston, MA",EMP-110604,Housekeeping Supervisor,False,2019-08-31,active
+386,43,Mila Miller,"200 Wellington Ave, Boston, MA",EMP-114104,Revenue Analyst,False,2020-08-25,active
+387,43,Isaac Patel,"749 Somerset Ave, Boston, MA",EMP-626292,Maintenance Coordinator,False,2020-09-21,active
+388,44,Olivia Wilson,"127 Somerset Ave, Calgary, AB",EMP-128313,General Manager,True,2021-01-29,active
+389,44,Jack Price,"716 Harbour Ave, Calgary, AB",EMP-939302,Assistant Manager,False,2025-07-07,active
+390,44,David Price,"568 Somerset Ave, Calgary, AB",EMP-279369,Front Desk Agent,False,2019-03-31,active
+391,44,Emma Kelly,"831 Harbour Ave, Calgary, AB",EMP-958575,Front Desk Agent,False,2020-12-01,active
+392,44,Jack Miller,"753 York Ave, Calgary, AB",EMP-359919,Night Auditor,False,2022-08-15,active
+393,44,Sarah Ross,"704 Bank Ave, Calgary, AB",EMP-934856,Concierge,False,2020-03-21,active
+394,44,Leah Rivera,"542 York Ave, Calgary, AB",EMP-884143,Housekeeping Supervisor,False,2023-06-09,active
+395,44,Ava Mitchell,"504 York Ave, Calgary, AB",EMP-983790,Revenue Analyst,False,2020-09-14,active
+396,44,Anika Walker,"402 Pine Ave, Calgary, AB",EMP-454662,Maintenance Coordinator,False,2022-01-20,active
+397,45,Adam Patel,"470 Somerset Ave, Ottawa, ON",EMP-642640,General Manager,True,2019-10-20,active
+398,45,Alexander Roy,"30 Pine Ave, Ottawa, ON",EMP-628120,Assistant Manager,False,2020-03-02,active
+399,45,Gabriel Kelly,"776 Wellington Ave, Ottawa, ON",EMP-361893,Front Desk Agent,False,2022-11-21,active
+400,45,Amelia Nguyen,"265 Pine Ave, Ottawa, ON",EMP-572941,Front Desk Agent,False,2023-08-14,active
+401,45,Leah Miller,"641 Somerset Ave, Ottawa, ON",EMP-539907,Night Auditor,False,2019-02-13,active
+402,45,Liam Wright,"391 York Ave, Ottawa, ON",EMP-245582,Concierge,False,2025-03-20,active
+403,45,Benjamin Mitchell,"484 York Ave, Ottawa, ON",EMP-160618,Housekeeping Supervisor,False,2019-11-20,active
+404,45,Lucas Wright,"507 Harbour Ave, Ottawa, ON",EMP-661542,Revenue Analyst,False,2024-04-27,active
+405,45,Mia Hill,"887 Pine Ave, Ottawa, ON",EMP-199020,Maintenance Coordinator,False,2023-12-02,active
+406,46,Aria Wright,"90 Harbour Ave, Calgary, AB",EMP-998017,General Manager,True,2020-07-20,active
+407,46,James Hill,"90 Harbour Ave, Calgary, AB",EMP-512833,Assistant Manager,False,2024-09-24,active
+408,46,Charlotte Clarke,"144 Bank Ave, Calgary, AB",EMP-898367,Front Desk Agent,False,2024-05-07,active
+409,46,Benjamin Patel,"743 Somerset Ave, Calgary, AB",EMP-227619,Front Desk Agent,False,2022-07-07,active
+410,46,Daniel Baker,"431 Somerset Ave, Calgary, AB",EMP-276408,Night Auditor,False,2021-07-20,active
+411,46,Grace Tremblay,"330 Wellington Ave, Calgary, AB",EMP-192663,Concierge,False,2020-04-29,active
+412,46,Harper Nguyen,"149 Pine Ave, Calgary, AB",EMP-966304,Housekeeping Supervisor,False,2025-11-24,active
+413,46,Sophia Lopez,"559 Wellington Ave, Calgary, AB",EMP-959394,Revenue Analyst,False,2022-04-28,active
+414,46,Emma Young,"384 Pine Ave, Calgary, AB",EMP-430099,Maintenance Coordinator,False,2024-01-01,active
+415,47,David Parker,"221 Somerset Ave, Seattle, WA",EMP-489748,General Manager,True,2019-10-07,active
+416,47,Thomas Ross,"663 Wellington Ave, Seattle, WA",EMP-734543,Assistant Manager,False,2019-10-04,active
+417,47,Sebastian Wilson,"378 Harbour Ave, Seattle, WA",EMP-735916,Front Desk Agent,False,2020-06-02,active
+418,47,Sarah Young,"429 Pine Ave, Seattle, WA",EMP-974471,Front Desk Agent,False,2022-05-01,active
+419,47,Sarah Wright,"405 Somerset Ave, Seattle, WA",EMP-824541,Night Auditor,False,2024-07-20,active
+420,47,Emma Baker,"784 York Ave, Seattle, WA",EMP-774537,Concierge,False,2023-08-28,active
+421,47,Mia Patel,"78 York Ave, Seattle, WA",EMP-609798,Housekeeping Supervisor,False,2021-03-21,active
+422,47,Layla Nguyen,"645 Somerset Ave, Seattle, WA",EMP-720473,Revenue Analyst,False,2023-08-21,active
+423,47,Sarah Khan,"689 Wellington Ave, Seattle, WA",EMP-675932,Maintenance Coordinator,False,2024-04-02,active
+424,48,Isabella Clarke,"25 Harbour Ave, Ottawa, ON",EMP-429970,General Manager,True,2022-02-04,active
+425,48,Sophia Lefebvre,"568 Wellington Ave, Ottawa, ON",EMP-171732,Assistant Manager,False,2020-10-14,active
+426,48,Aiden Wright,"531 Bank Ave, Ottawa, ON",EMP-589092,Front Desk Agent,False,2024-12-13,active
+427,48,Alexander Tremblay,"644 Somerset Ave, Ottawa, ON",EMP-698089,Front Desk Agent,False,2023-09-19,active
+428,48,Aria Walker,"825 Pine Ave, Ottawa, ON",EMP-586049,Night Auditor,False,2019-12-07,active
+429,48,Victor Carter,"889 Wellington Ave, Ottawa, ON",EMP-985860,Concierge,False,2025-03-19,active
+430,48,Elijah Kelly,"438 Pine Ave, Ottawa, ON",EMP-151090,Housekeeping Supervisor,False,2024-09-26,active
+431,48,Theodore Ahmed,"771 Somerset Ave, Ottawa, ON",EMP-943210,Revenue Analyst,False,2022-10-17,active
+432,48,Aria Miller,"145 Harbour Ave, Ottawa, ON",EMP-192633,Maintenance Coordinator,False,2023-06-06,active
+433,49,Theodore Johnson,"120 Bank Ave, Montréal, QC",EMP-649063,General Manager,True,2021-11-16,active
+434,49,Ava Lefebvre,"267 York Ave, Montréal, QC",EMP-419988,Assistant Manager,False,2019-04-24,active
+435,49,Gabriel Ahmed,"137 Bank Ave, Montréal, QC",EMP-629366,Front Desk Agent,False,2022-02-17,active
+436,49,Lily Wilson,"305 Pine Ave, Montréal, QC",EMP-612778,Front Desk Agent,False,2025-02-17,active
+437,49,Ethan Singh,"844 Harbour Ave, Montréal, QC",EMP-286126,Night Auditor,False,2023-12-05,active
+438,49,Thomas Clarke,"443 Wellington Ave, Montréal, QC",EMP-150714,Concierge,False,2020-12-13,active
+439,49,Isabella Khan,"837 Somerset Ave, Montréal, QC",EMP-567563,Housekeeping Supervisor,False,2023-10-11,active
+440,49,Harper Scott,"321 Pine Ave, Montréal, QC",EMP-578870,Revenue Analyst,False,2023-10-09,active
+441,49,Charlotte Walker,"258 Harbour Ave, Montréal, QC",EMP-460538,Maintenance Coordinator,False,2024-08-08,active
+442,50,Liam Kelly,"724 Wellington Ave, Seattle, WA",EMP-620714,General Manager,True,2024-02-23,active
+443,50,Daniel Miller,"70 Harbour Ave, Seattle, WA",EMP-424081,Assistant Manager,False,2021-04-03,active
+444,50,Amelia Walker,"554 Pine Ave, Seattle, WA",EMP-852208,Front Desk Agent,False,2022-07-25,active
+445,50,Elijah Miller,"872 York Ave, Seattle, WA",EMP-771111,Front Desk Agent,False,2024-08-30,active
+446,50,Nora Kim,"164 Bank Ave, Seattle, WA",EMP-210361,Night Auditor,False,2024-06-30,active
+447,50,Chloe Nguyen,"799 Harbour Ave, Seattle, WA",EMP-925687,Concierge,False,2024-05-21,active
+448,50,Liam Lopez,"258 Wellington Ave, Seattle, WA",EMP-396778,Housekeeping Supervisor,False,2024-04-05,active
+449,50,Jack Gagnon,"253 Bank Ave, Seattle, WA",EMP-798763,Revenue Analyst,False,2021-11-28,active
+450,50,Fatima Young,"884 Bank Ave, Seattle, WA",EMP-542241,Maintenance Coordinator,False,2023-04-05,active

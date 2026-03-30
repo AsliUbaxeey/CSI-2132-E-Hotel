@@ -1,0 +1,36 @@
+# Data Dictionary / Suggested Mapping
+
+CORE FILES
+- hotel_chains.csv:
+  chain_id, chain_name, central_office_address, number_of_hotels, contact_email, phone_number
+
+- hotels.csv:
+  hotel_id, chain_id, hotel_name, category_star, address, city, state_province, area, contact_email, phone_number, total_rooms
+
+- rooms.csv:
+  room_id, hotel_id, room_number, floor_number, room_type, capacity, price_per_night, sea_view, mountain_view, extendable, damages_or_issues, last_renovated_date, smoking_allowed, ada_accessible
+
+- room_amenities.csv:
+  room_id, amenity_name
+
+- customers.csv:
+  customer_id, full_name, address, id_type, id_number, registration_date, email_address, phone_number
+
+- employees.csv:
+  employee_id, hotel_id, full_name, address, ssn_sin, role_title, is_manager, hire_date, employment_status
+
+- bookings.csv:
+  booking_id, customer_id, room_id, booking_start_date, booking_end_date, booking_date, booking_status, quoted_nightly_rate, travel_purpose
+
+- rentings.csv:
+  renting_id, booking_id, customer_id, room_id, employee_id, rent_start_date, rent_end_date, check_in_date, nightly_rate_charged, tax_amount, total_amount, rent_status
+
+- payments.csv:
+  payment_id, renting_id, payment_date, amount_paid, payment_method, payment_status
+
+OPTIONAL BONUS FILES
+- loyalty_profiles_optional.csv
+- archived_bookings_optional.csv
+- archived_rentings_optional.csv
+- maintenance_logs_optional.csv
+- seasonal_rate_adjustments_optional.csv

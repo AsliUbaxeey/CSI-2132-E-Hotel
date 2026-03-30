@@ -1,0 +1,420 @@
+archived_renting_id,original_renting_id,customer_name_snapshot,room_number_snapshot,hotel_name_snapshot,rent_start_date,rent_end_date,total_amount_snapshot,archived_on
+1,1,Charlotte Kim,309,BlueHarbor Central,2025-02-11,2025-02-14,763.26,2025-03-09
+2,2,Noah Johnson,311,Maple Urban Select,2025-06-13,2025-06-16,1546.99,2025-06-29
+3,3,Chloe Kim,102,Aurora Skyline,2025-11-19,2025-11-20,284.36,2025-12-03
+4,4,David Mitchell,208,Maple Executive,2025-08-05,2025-08-08,1502.18,2025-08-29
+5,5,Hannah Murphy,104,Aurora Urban Select,2026-01-19,2026-01-25,1952.37,2026-02-14
+6,6,Zoe Wright,312,Maple Waterfront,2025-09-30,2025-10-03,2539.76,2025-10-16
+7,8,Adam Lefebvre,104,Aurora Convention Centre,2025-04-21,2025-04-29,3009.82,2025-05-20
+8,9,Isaac Johnson,206,BlueHarbor Residences,2025-02-08,2025-02-12,1797.78,2025-02-24
+9,11,Hannah Murphy,207,Aurora Urban Select,2025-08-31,2025-09-03,1742.05,2025-09-13
+10,12,Grace Baker,103,Maple Convention Centre,2025-05-17,2025-05-26,2702.7,2025-06-24
+11,15,James Young,311,Summit Central,2025-07-15,2025-07-17,908.06,2025-07-26
+12,16,Adam Carter,310,Maple Executive,2025-08-16,2025-08-18,752.4,2025-09-09
+13,18,Fatima Murphy,206,Maple Central,2026-02-23,2026-02-25,791.2,2026-03-06
+14,19,Victor Walker,207,Maple Executive,2025-08-12,2025-08-18,3200.97,2025-09-09
+15,21,Jack Hill,101,BlueHarbor Central,2025-02-09,2025-02-11,358.55,2025-02-28
+16,22,Sebastian Tremblay,205,Aurora Convention Centre,2025-08-04,2025-08-08,1867.19,2025-08-19
+17,24,Zoe Lefebvre,207,Maple Executive,2025-05-21,2025-05-25,2023.6,2025-06-20
+18,26,Adam Ross,208,BlueHarbor Skyline,2025-11-11,2025-11-15,1960.55,2025-11-25
+19,27,Lily Tremblay,309,Northline Skyline,2025-11-11,2025-11-14,895.23,2025-11-16
+20,29,Anika Young,205,Summit Urban Select,2026-01-13,2026-01-16,1075.96,2026-02-03
+21,30,Harper Miller,310,BlueHarbor Urban Select,2025-07-23,2025-07-27,1845.12,2025-08-03
+22,33,Leah Gagnon,205,Summit Market District,2025-07-22,2025-07-23,554.69,2025-08-21
+23,34,Alexander Gagnon,310,BlueHarbor Harbour View,2025-11-02,2025-11-08,2631.18,2025-11-28
+24,35,Noah Baker,205,Summit Grand Plaza,2025-11-10,2025-11-14,1393.59,2025-12-13
+25,36,Sebastian Murphy,205,BlueHarbor Urban Select,2025-09-26,2025-09-28,844.38,2025-10-18
+26,37,Camille Ahmed,311,Maple Residences,2025-07-26,2025-07-28,1040.76,2025-08-02
+27,38,Jasmine Lefebvre,310,BlueHarbor Executive,2026-01-11,2026-01-16,1558.92,2026-02-15
+28,39,Mia Mitchell,102,Aurora Skyline,2025-10-17,2025-10-21,1195.48,2025-11-03
+29,40,Charlotte Lefebvre,311,Aurora Central,2025-05-22,2025-05-24,909.22,2025-06-06
+30,43,Daniel Singh,101,BlueHarbor Harbour View,2025-06-05,2025-06-10,1793.31,2025-06-14
+31,45,Leah Mitchell,104,Maple Waterfront,2025-02-20,2025-03-01,3402.92,2025-03-23
+32,46,Sebastian Price,101,Maple Waterfront,2026-02-13,2026-02-15,546.73,2026-02-21
+33,47,Benjamin Hill,208,Summit Grand Plaza,2025-06-11,2025-06-14,1493.96,2025-06-25
+34,50,Julian Bennett,206,Northline Residences,2025-01-20,2025-01-23,1241.28,2025-02-20
+35,51,Aria Martin,103,Maple Grand Plaza,2025-01-30,2025-01-31,246.39,2025-02-19
+36,54,Sebastian Reid,310,Maple Skyline,2026-02-27,2026-03-04,1878.62,2026-04-02
+37,55,Sarah Miller,310,Aurora Urban Select,2025-02-11,2025-02-14,1104.63,2025-02-17
+38,58,Ava Lefebvre,207,Maple Waterfront,2025-04-26,2025-04-29,1774.64,2025-05-12
+39,59,Mia Mitchell,205,Maple Convention Centre,2025-11-30,2025-12-04,1440.6,2025-12-30
+40,62,Aiden Wright,309,Aurora Harbour View,2025-10-11,2025-10-19,2734.03,2025-11-07
+41,63,Alexander Young,312,Aurora Grand Plaza,2025-10-01,2025-10-05,2942.34,2025-10-23
+42,64,Lucas Martin,208,Summit Waterfront,2025-12-10,2025-12-14,2004.32,2025-12-20
+43,65,Jack Walker,207,Summit Residences,2025-03-13,2025-03-16,1610.25,2025-04-15
+44,69,Isabella Chen,207,Maple Waterfront,2025-08-07,2025-08-08,653.52,2025-08-22
+45,70,Sophia Khan,104,BlueHarbor Harbour View,2025-03-09,2025-03-14,2124.4,2025-03-19
+46,71,Elijah Diaz,207,Northline Executive,2025-10-08,2025-10-10,1021.9,2025-10-19
+47,72,Sophia Mitchell,102,Aurora Convention Centre,2025-02-12,2025-02-21,2497.99,2025-03-11
+48,73,Alexander Parker,310,Maple Central,2025-12-21,2025-12-25,1426.77,2026-01-24
+49,75,Jack Gagnon,310,Northline Convention Centre,2025-04-30,2025-05-03,1195.17,2025-06-01
+50,76,Julian Diaz,208,Aurora Market District,2025-03-28,2025-03-31,1700.16,2025-04-07
+51,78,Benjamin Price,312,Aurora Harbour View,2025-10-07,2025-10-10,2225.73,2025-11-06
+52,79,Hannah Carter,309,Maple Executive,2025-04-09,2025-04-11,609.86,2025-05-04
+53,80,Benjamin Hill,102,Northline Convention Centre,2025-05-02,2025-05-04,632.36,2025-05-05
+54,81,Camille Ahmed,207,Maple Skyline,2025-12-04,2025-12-07,1722.97,2026-01-06
+55,82,Alexander Chen,104,Northline Market District,2025-05-01,2025-05-07,2729.63,2025-05-29
+56,85,Layla Reid,101,Aurora Central,2025-05-28,2025-05-30,502.66,2025-06-22
+57,89,Fatima Gagnon,101,Maple Waterfront,2025-05-18,2025-05-23,1582.64,2025-05-25
+58,90,Aiden Rivera,102,BlueHarbor Central,2025-10-10,2025-10-16,1480.48,2025-11-09
+59,93,Layla Hill,101,Maple Convention Centre,2025-03-10,2025-03-15,1076.25,2025-04-09
+60,94,Adam Bennett,310,Northline Central,2026-03-06,2026-03-09,1071.63,2026-03-14
+61,95,Amelia Baker,205,Maple Residences,2026-01-12,2026-01-20,2921.18,2026-02-13
+62,97,Harper Murphy,309,Northline Waterfront,2026-03-02,2026-03-04,715.44,2026-03-11
+63,98,Liam Miller,101,Maple Skyline,2026-01-03,2026-01-08,1273.51,2026-01-28
+64,99,Ethan Johnson,207,BlueHarbor Harbour View,2026-01-16,2026-01-20,2124.94,2026-02-05
+65,100,Owen Roy,207,Northline Grand Plaza,2025-06-29,2025-07-01,1177.28,2025-07-21
+66,101,Mia Diaz,312,Maple Grand Plaza,2025-10-22,2025-10-26,2895.78,2025-11-22
+67,102,Olivia Mitchell,103,Aurora Grand Plaza,2025-04-27,2025-05-01,1077.34,2025-05-06
+68,103,Leo Tremblay,102,Maple Convention Centre,2025-01-13,2025-01-17,946.68,2025-01-24
+69,104,Hannah Tremblay,104,Aurora Urban Select,2026-02-22,2026-02-26,1344.02,2026-03-21
+70,105,Isabella Ross,309,Northline Harbour View,2025-07-17,2025-07-19,864.04,2025-07-31
+71,106,Theodore Turner,208,Maple Residences,2025-10-14,2025-10-18,1975.9,2025-11-09
+72,107,Lily Parker,205,Northline Skyline,2025-07-28,2025-07-31,1300.95,2025-08-29
+73,108,Sarah Mitchell,309,Aurora Harbour View,2025-05-14,2025-05-16,729.96,2025-05-19
+74,110,Aiden Singh,101,Maple Market District,2025-11-12,2025-11-20,1942.75,2025-12-13
+75,114,Julian Diaz,312,Maple Central,2025-02-04,2025-02-11,4757.71,2025-02-28
+76,117,Ava Kelly,311,Summit Skyline,2025-11-24,2025-11-29,2206.47,2025-12-27
+77,119,Grace Kelly,310,Summit Urban Select,2025-10-24,2025-10-26,814.48,2025-11-03
+78,120,Hannah Bennett,312,Northline Central,2026-02-27,2026-03-08,6023.45,2026-03-16
+79,122,Sophia Ahmed,205,Summit Central,2025-12-27,2026-01-03,2634.21,2026-01-29
+80,123,Lily Khan,104,Aurora Market District,2025-07-01,2025-07-06,2484.61,2025-07-09
+81,124,Harper Ross,310,BlueHarbor Waterfront,2026-02-25,2026-02-26,360.1,2026-03-10
+82,125,Lucas Wilson,104,BlueHarbor Skyline,2025-01-18,2025-01-21,1015.46,2025-02-01
+83,126,Noah Patel,309,Maple Residences,2025-08-08,2025-08-15,2640.93,2025-08-20
+84,127,David Mitchell,206,Aurora Harbour View,2026-01-28,2026-01-29,406.69,2026-02-10
+85,129,Lucas Ross,103,Northline Executive,2025-09-27,2025-09-29,632.17,2025-10-04
+86,132,Leo Khan,309,Summit Convention Centre,2025-05-24,2025-05-26,703.54,2025-05-29
+87,133,Jack Singh,312,Summit Skyline,2025-01-17,2025-01-20,2171.02,2025-02-18
+88,134,Sophia Mitchell,312,BlueHarbor Urban Select,2026-02-07,2026-02-14,5046.25,2026-03-10
+89,136,Grace Wright,309,Summit Residences,2025-11-28,2025-11-30,664.44,2025-12-25
+90,138,Lucas Mitchell,311,Aurora Central,2025-01-26,2025-01-31,1901.09,2025-02-25
+91,139,Fatima Murphy,205,Northline Grand Plaza,2026-01-04,2026-01-07,1098.09,2026-01-23
+92,140,Leo Lopez,309,Aurora Market District,2025-05-11,2025-05-13,864.86,2025-06-11
+93,141,Chloe Nguyen,309,Northline Skyline,2025-12-28,2025-12-31,977.45,2026-01-29
+94,142,Sophia Bennett,101,Aurora Residences,2025-05-09,2025-05-11,541.95,2025-06-07
+95,143,Jasmine Singh,207,Aurora Convention Centre,2026-02-08,2026-02-15,3482.52,2026-03-11
+96,144,Isaac Johnson,103,Northline Urban Select,2025-01-12,2025-01-16,1156.3,2025-02-08
+97,146,Emma Carter,208,Aurora Residences,2025-01-15,2025-01-19,1779.8,2025-01-23
+98,150,Adam Lefebvre,309,BlueHarbor Central,2025-07-29,2025-07-30,316.02,2025-07-31
+99,151,Alexander Parker,102,Maple Market District,2025-03-08,2025-03-11,900.9,2025-03-20
+100,152,Victor Scott,101,Aurora Central,2025-08-06,2025-08-08,530.07,2025-08-25
+101,154,Aria Parker,207,Maple Residences,2025-11-19,2025-11-23,2074.46,2025-12-17
+102,155,Aiden Singh,312,Aurora Market District,2025-06-16,2025-06-21,4739.84,2025-07-08
+103,157,Grace Price,103,Summit Harbour View,2026-01-24,2026-01-27,963.71,2026-02-19
+104,158,Alexander Parker,103,Aurora Executive,2025-03-26,2025-03-31,1533.3,2025-04-10
+105,159,Leo Tremblay,312,Northline Urban Select,2025-07-23,2025-07-27,3590.62,2025-08-18
+106,162,Evelyn Shah,101,BlueHarbor Harbour View,2025-07-18,2025-07-25,2576.13,2025-08-07
+107,163,Sebastian Tremblay,101,Maple Residences,2025-01-18,2025-01-22,933.16,2025-01-29
+108,164,Sarah Miller,311,Northline Convention Centre,2025-11-27,2025-11-29,845.07,2025-12-19
+109,166,Hannah Bennett,205,Maple Market District,2025-10-25,2025-10-27,824.1,2025-11-03
+110,169,Isabella Baker,208,Northline Convention Centre,2025-05-04,2025-05-06,1087.66,2025-05-09
+111,171,Chloe Kim,104,Summit Skyline,2025-02-18,2025-02-21,1104.66,2025-03-11
+112,173,Mason Kelly,205,Maple Waterfront,2025-03-15,2025-03-16,436.59,2025-03-18
+113,175,Grace Khan,103,Summit Harbour View,2025-08-21,2025-08-30,3645.33,2025-09-12
+114,176,Hannah Carter,310,Summit Waterfront,2025-11-05,2025-11-09,1547.62,2025-11-30
+115,177,Sophia Mitchell,205,Summit Waterfront,2025-08-25,2025-08-27,928.12,2025-08-29
+116,179,Leah Parker,207,Summit Residences,2025-06-30,2025-07-01,617.26,2025-07-11
+117,181,Isaac Roy,309,BlueHarbor Urban Select,2026-01-27,2026-01-29,592.35,2026-02-04
+118,182,Jack Walker,208,Maple Convention Centre,2025-07-05,2025-07-08,1542.55,2025-07-12
+119,185,Isabella Chen,208,Aurora Urban Select,2025-01-17,2025-01-19,879.5,2025-01-28
+120,186,Henry Murphy,310,Aurora Central,2026-01-12,2026-01-13,354.46,2026-02-10
+121,187,Layla Murphy,207,Summit Market District,2025-01-08,2025-01-11,1578.11,2025-01-14
+122,188,Leah Rivera,206,Aurora Harbour View,2026-02-13,2026-02-20,2939.63,2026-03-12
+123,189,Gabriel Hill,102,BlueHarbor Waterfront,2025-10-10,2025-10-18,2387.95,2025-11-07
+124,190,Gabriel Reid,309,Aurora Residences,2025-08-28,2025-09-04,2642.57,2025-09-21
+125,191,Adam Bennett,310,Aurora Waterfront,2025-12-15,2025-12-19,1939.4,2025-12-24
+126,192,Lily Tremblay,208,Maple Residences,2025-11-05,2025-11-10,2349.98,2025-11-29
+127,193,Sarah Mitchell,309,Summit Waterfront,2025-03-09,2025-03-12,963.9,2025-03-29
+128,194,Henry Hill,206,Northline Executive,2025-07-10,2025-07-12,997.38,2025-08-06
+129,195,Camille Ahmed,102,Aurora Central,2026-03-07,2026-03-09,591.36,2026-03-10
+130,196,Henry Murphy,206,Maple Convention Centre,2025-07-29,2025-08-06,3865.68,2025-08-23
+131,198,Harper Ross,101,Northline Convention Centre,2025-04-06,2025-04-13,1901.4,2025-04-24
+132,203,Anika Chen,104,Aurora Convention Centre,2025-03-29,2025-03-31,716.62,2025-04-26
+133,204,Amelia Murphy,311,BlueHarbor Market District,2025-10-06,2025-10-08,997.13,2025-10-20
+134,205,Noah Khan,310,Maple Grand Plaza,2025-11-24,2025-11-25,334.43,2025-12-02
+135,206,Sophia Walker,312,Summit Executive,2025-01-28,2025-02-02,3353.13,2025-02-12
+136,207,David Mitchell,311,BlueHarbor Urban Select,2025-05-22,2025-05-29,3275.64,2025-06-25
+137,208,Layla Kelly,205,Northline Skyline,2025-05-10,2025-05-13,1212.75,2025-05-24
+138,210,Chloe Kelly,206,BlueHarbor Waterfront,2025-11-09,2025-11-17,3465.67,2025-12-08
+139,211,Gabriel Roy,208,BlueHarbor Residences,2025-05-25,2025-05-31,3461.04,2025-06-02
+140,212,Jasmine Martin,206,Northline Convention Centre,2025-12-15,2025-12-17,971.88,2026-01-09
+141,213,Henry Scott,207,Summit Grand Plaza,2025-12-19,2025-12-20,504.82,2026-01-15
+142,216,Fatima Price,208,BlueHarbor Market District,2025-10-01,2025-10-02,551.86,2025-10-21
+143,218,Camille Ahmed,103,Northline Market District,2025-07-13,2025-07-21,3584.18,2025-08-19
+144,220,Nora Johnson,207,Northline Urban Select,2025-09-29,2025-10-08,5197.41,2025-11-07
+145,221,Sarah Patel,312,Northline Waterfront,2025-02-08,2025-02-10,1479.29,2025-02-27
+146,223,Sophia Khan,311,Summit Convention Centre,2025-11-10,2025-11-14,1696.54,2025-12-12
+147,225,Layla Murphy,311,Aurora Central,2025-10-26,2025-10-30,1702.71,2025-11-17
+148,226,Harper Price,311,BlueHarbor Harbour View,2025-01-12,2025-01-18,2657.22,2025-02-03
+149,227,Julian Patel,310,Summit Residences,2025-08-27,2025-09-04,3722.67,2025-09-23
+150,231,Isabella Murphy,208,Maple Executive,2025-11-14,2025-11-17,1269.08,2025-12-16
+151,232,Sarah Miller,101,BlueHarbor Waterfront,2025-12-22,2025-12-26,1150.46,2026-01-11
+152,233,Lily Martin,311,Aurora Grand Plaza,2025-01-17,2025-01-19,700.69,2025-02-06
+153,235,Leah Baker,208,Aurora Residences,2025-06-25,2025-06-29,2224.74,2025-07-04
+154,236,Lily Parker,311,Northline Central,2025-08-24,2025-08-29,2327.6,2025-09-16
+155,238,Mia Mitchell,206,Maple Central,2025-12-15,2025-12-19,1782.28,2025-12-24
+156,239,Jack Wilson,310,Summit Executive,2025-08-31,2025-09-02,797.56,2025-09-15
+157,240,Lily Kim,103,Northline Waterfront,2025-02-22,2025-02-27,1699.18,2025-03-29
+158,241,Mia Murphy,102,Summit Grand Plaza,2025-10-27,2025-11-03,1764.7,2025-11-11
+159,242,David Kelly,103,Aurora Urban Select,2025-02-28,2025-03-05,1519.0,2025-03-28
+160,243,Emma Murphy,102,Summit Residences,2026-03-03,2026-03-08,1582.0,2026-03-16
+161,244,Jasmine Kim,103,Summit Grand Plaza,2025-04-25,2025-04-27,607.02,2025-05-01
+162,246,Jasmine Kim,311,BlueHarbor Convention Centre,2025-07-02,2025-07-04,1070.5,2025-07-26
+163,249,Mia Mitchell,101,Northline Skyline,2025-10-11,2025-10-15,908.46,2025-10-26
+164,251,Zoe Lefebvre,312,Maple Executive,2025-12-30,2026-01-03,3032.42,2026-01-15
+165,252,Daniel Miller,102,Aurora Convention Centre,2025-12-16,2025-12-25,2813.52,2026-01-20
+166,254,Adam Johnson,207,Maple Urban Select,2025-11-03,2025-11-08,2619.71,2025-11-20
+167,256,Olivia Mitchell,101,Aurora Urban Select,2025-06-23,2025-06-26,849.87,2025-07-09
+168,257,Hannah Lopez,208,BlueHarbor Waterfront,2025-08-21,2025-08-26,2837.94,2025-09-20
+169,258,Leah Parker,104,Aurora Convention Centre,2025-11-16,2025-11-19,1053.44,2025-11-21
+170,259,Grace Price,104,BlueHarbor Waterfront,2025-12-07,2025-12-15,3019.97,2025-12-16
+171,260,Jack Wilson,312,Maple Grand Plaza,2025-03-06,2025-03-10,2811.44,2025-04-09
+172,261,Leo Parker,102,Aurora Executive,2025-07-28,2025-07-31,964.51,2025-08-02
+173,262,Noah Khan,205,Maple Grand Plaza,2025-10-18,2025-10-23,1757.49,2025-11-11
+174,265,Victor Patel,309,Summit Waterfront,2025-07-09,2025-07-13,1516.54,2025-08-10
+175,266,Layla Walker,311,BlueHarbor Harbour View,2025-08-13,2025-08-15,1116.8,2025-08-21
+176,267,Hannah Roy,309,Northline Central,2025-09-23,2025-09-28,1541.96,2025-10-27
+177,268,Isaac Ross,103,Summit Urban Select,2025-08-08,2025-08-16,2898.28,2025-08-31
+178,269,Mason Patel,312,Maple Market District,2025-06-03,2025-06-09,5078.74,2025-07-06
+179,270,Victor Parker,309,Maple Convention Centre,2025-04-12,2025-04-14,595.35,2025-04-23
+180,272,Mia Mitchell,102,Northline Skyline,2025-05-10,2025-05-13,900.9,2025-05-23
+181,275,Mila Parker,311,Maple Convention Centre,2025-03-23,2025-03-29,2268.0,2025-04-01
+182,277,Adam Ross,101,Maple Executive,2025-02-24,2025-02-25,190.01,2025-03-03
+183,279,Henry Gagnon,309,BlueHarbor Skyline,2025-11-13,2025-11-15,664.79,2025-12-08
+184,281,Isaac Roy,208,Summit Waterfront,2026-03-03,2026-03-07,1873.2,2026-03-14
+185,282,Zoe Lefebvre,103,BlueHarbor Residences,2025-01-09,2025-01-12,959.65,2025-02-06
+186,283,Victor Kim,208,Maple Grand Plaza,2025-07-31,2025-08-02,1018.72,2025-08-16
+187,284,Sebastian Lopez,310,Maple Skyline,2025-07-08,2025-07-10,933.38,2025-07-27
+188,285,Leah Price,205,BlueHarbor Residences,2025-03-29,2025-03-31,855.0,2025-04-12
+189,287,Hannah Bennett,103,Maple Urban Select,2025-06-25,2025-06-29,1507.32,2025-07-26
+190,288,Adam Bennett,207,Summit Skyline,2026-01-09,2026-01-15,3114.94,2026-01-31
+191,289,Harper Miller,311,Northline Grand Plaza,2026-02-05,2026-02-08,1182.64,2026-03-04
+192,290,Grace Lopez,311,Maple Skyline,2025-12-18,2025-12-21,1469.06,2026-01-16
+193,291,Jack Hill,103,Northline Executive,2025-06-03,2025-06-11,2692.56,2025-07-05
+194,293,Sarah Khan,311,Maple Grand Plaza,2025-09-04,2025-09-06,798.14,2025-09-21
+195,294,Liam Miller,103,BlueHarbor Grand Plaza,2025-07-23,2025-07-26,968.05,2025-08-25
+196,295,Jack Singh,103,Maple Convention Centre,2026-03-04,2026-03-09,1365.0,2026-03-29
+197,296,Zoe Lefebvre,310,Maple Market District,2025-08-29,2025-09-02,1807.51,2025-09-06
+198,298,Harper Ross,205,BlueHarbor Market District,2025-10-13,2025-10-17,1781.1,2025-11-09
+199,300,Gabriel Hill,207,Maple Waterfront,2026-02-20,2026-02-22,1070.42,2026-03-04
+200,304,Theodore Bennett,312,Aurora Executive,2025-03-30,2025-04-02,2253.78,2025-04-28
+201,305,Zoe Lefebvre,206,Northline Harbour View,2025-10-06,2025-10-14,4041.06,2025-11-10
+202,306,Charlotte Baker,206,BlueHarbor Skyline,2025-06-23,2025-07-01,4231.08,2025-07-12
+203,308,Sarah Bennett,207,BlueHarbor Residences,2025-03-27,2025-04-04,4332.0,2025-04-21
+204,309,Chloe Hill,206,BlueHarbor Harbour View,2025-03-08,2025-03-15,3686.06,2025-04-01
+205,312,Mason Kelly,103,Summit Waterfront,2025-03-31,2025-04-06,1896.3,2025-04-10
+206,313,Gabriel Walker,103,BlueHarbor Market District,2025-12-27,2026-01-04,3159.24,2026-01-31
+207,314,Gabriel Price,311,Aurora Central,2025-10-03,2025-10-05,851.36,2025-10-10
+208,315,Ava Lefebvre,208,Northline Urban Select,2025-11-27,2025-11-30,1458.61,2025-12-30
+209,318,Alexander Rivera,103,Summit Waterfront,2025-09-17,2025-09-19,682.67,2025-10-07
+210,321,Mila Wright,310,BlueHarbor Residences,2025-01-16,2025-01-22,2296.87,2025-02-02
+211,323,Evelyn Khan,205,BlueHarbor Residences,2026-02-06,2026-02-13,2842.88,2026-03-09
+212,324,Sophia Nguyen,207,BlueHarbor Skyline,2025-01-22,2025-01-23,481.29,2025-01-25
+213,326,Elijah Diaz,102,Maple Grand Plaza,2026-02-02,2026-02-05,731.05,2026-02-14
+214,327,Olivia Reid,103,Aurora Central,2026-02-21,2026-02-22,286.22,2026-03-14
+215,328,Camille Singh,103,Summit Market District,2025-04-29,2025-05-01,785.46,2025-05-07
+216,330,Leah Rivera,104,Northline Waterfront,2025-12-11,2025-12-15,1744.36,2025-12-20
+217,331,Camille Singh,208,Summit Harbour View,2025-02-25,2025-03-01,1928.01,2025-03-07
+218,332,Owen Bennett,309,Maple Central,2025-04-29,2025-04-30,291.88,2025-05-15
+219,333,Sebastian Gagnon,103,Northline Market District,2025-12-06,2025-12-09,1218.77,2025-12-29
+220,334,Lucas Mitchell,103,Aurora Harbour View,2025-05-23,2025-05-26,1060.29,2025-06-13
+221,335,Olivia Singh,205,Aurora Grand Plaza,2025-11-05,2025-11-08,1003.3,2025-11-25
+222,337,Leo Khan,102,Aurora Residences,2025-05-05,2025-05-06,326.91,2025-05-11
+223,338,Grace Khan,101,Aurora Urban Select,2025-12-14,2025-12-23,2372.25,2026-01-05
+224,340,Anika Chen,206,Maple Residences,2025-07-06,2025-07-08,1066.78,2025-07-29
+225,342,Sebastian Baker,312,Aurora Waterfront,2025-10-15,2025-10-19,3379.97,2025-10-28
+226,343,Nathan Martin,310,Northline Residences,2025-04-30,2025-05-07,2848.79,2025-05-11
+227,344,Alexander Parker,104,BlueHarbor Waterfront,2025-10-30,2025-11-01,726.77,2025-11-09
+228,347,Layla Hill,102,Summit Waterfront,2025-06-30,2025-07-08,2666.16,2025-07-11
+229,348,Alexander Gagnon,309,Northline Waterfront,2025-09-22,2025-09-25,1159.02,2025-10-03
+230,349,Olivia Reid,208,Northline Market District,2026-02-21,2026-03-02,4647.18,2026-04-01
+231,350,Sophia Nguyen,309,BlueHarbor Convention Centre,2025-03-04,2025-03-08,1411.2,2025-03-11
+232,351,Victor Ahmed,206,Northline Urban Select,2025-08-08,2025-08-10,1061.49,2025-09-06
+233,352,Gabriel Walker,207,Maple Harbour View,2025-04-24,2025-04-28,2542.43,2025-05-10
+234,356,Mila Parker,309,Northline Market District,2025-12-20,2025-12-23,1273.18,2026-01-18
+235,357,Gabriel Roy,208,Aurora Grand Plaza,2025-06-25,2025-07-03,3919.29,2025-07-25
+236,358,Theodore Price,311,Northline Convention Centre,2025-08-20,2025-08-29,4501.27,2025-09-24
+237,360,Charlotte Kim,311,Aurora Executive,2026-03-05,2026-03-07,818.52,2026-03-24
+238,361,Olivia Khan,104,BlueHarbor Urban Select,2025-05-16,2025-05-21,1991.94,2025-06-11
+239,362,Noah Khan,101,BlueHarbor Urban Select,2026-01-05,2026-01-06,238.0,2026-01-11
+240,363,Leah Gagnon,102,Summit Executive,2025-01-30,2025-01-31,231.65,2025-02-17
+241,364,Leah Baker,309,Summit Harbour View,2025-03-12,2025-03-16,1419.28,2025-04-07
+242,368,Chloe Bennett,101,Summit Urban Select,2025-01-15,2025-01-19,945.54,2025-01-22
+243,369,Isabella Chen,205,Aurora Market District,2025-03-18,2025-03-21,1414.56,2025-03-24
+244,370,Henry Nguyen,101,Aurora Waterfront,2025-05-30,2025-06-05,2058.41,2025-06-11
+245,371,Olivia Miller,103,Northline Grand Plaza,2025-09-21,2025-09-24,993.58,2025-10-15
+246,372,Victor Scott,101,Summit Urban Select,2026-02-26,2026-02-28,488.19,2026-03-11
+247,373,Gabriel Roy,207,BlueHarbor Waterfront,2025-02-19,2025-02-27,3838.38,2025-03-07
+248,374,Isaac Ross,310,Summit Market District,2025-01-04,2025-01-09,2006.43,2025-02-04
+249,375,Mason Chen,311,Summit Harbour View,2026-02-12,2026-02-18,2666.57,2026-03-04
+250,377,Chloe Nguyen,206,Northline Urban Select,2025-01-31,2025-02-03,1262.8,2025-03-01
+251,378,Elijah Scott,101,Northline Waterfront,2025-09-09,2025-09-13,1282.22,2025-10-08
+252,380,Sarah Patel,208,Northline Market District,2025-06-06,2025-06-12,3750.36,2025-06-22
+253,382,Harper Ross,312,BlueHarbor Waterfront,2025-07-11,2025-07-14,2549.86,2025-07-23
+254,384,Thomas Patel,310,Summit Executive,2025-09-16,2025-09-18,742.55,2025-10-02
+255,385,Hannah Lopez,103,Aurora Executive,2025-09-08,2025-09-10,662.39,2025-09-20
+256,387,Layla Reid,103,Maple Market District,2025-06-11,2025-06-20,3434.13,2025-07-04
+257,390,Adam Murphy,206,BlueHarbor Grand Plaza,2025-12-30,2026-01-01,851.21,2026-01-02
+258,391,Fatima Wilson,309,Summit Residences,2025-11-19,2025-11-22,996.66,2025-12-02
+259,392,Harper Ross,101,BlueHarbor Urban Select,2025-02-08,2025-02-17,2211.83,2025-03-14
+260,393,Mia Diaz,206,Northline Central,2025-10-25,2025-10-30,2123.53,2025-11-02
+261,394,Julian Patel,309,BlueHarbor Executive,2025-12-13,2025-12-15,618.58,2025-12-22
+262,395,Nathan Martin,103,BlueHarbor Harbour View,2025-01-05,2025-01-07,698.61,2025-02-04
+263,396,Benjamin Hill,208,Aurora Skyline,2025-07-20,2025-07-24,2258.24,2025-08-23
+264,397,Charlotte Parker,309,BlueHarbor Convention Centre,2025-08-19,2025-08-22,1227.74,2025-09-19
+265,398,Hannah Tremblay,208,Maple Executive,2025-02-26,2025-03-02,1640.31,2025-03-10
+266,399,Emma Murphy,207,Summit Skyline,2025-06-16,2025-06-19,1946.84,2025-07-12
+267,400,Aiden Miller,207,Maple Convention Centre,2025-10-31,2025-11-04,1968.33,2025-11-07
+268,401,Jasmine Singh,310,Summit Grand Plaza,2025-07-14,2025-07-18,1599.58,2025-07-28
+269,403,Olivia Miller,208,Summit Central,2025-09-26,2025-09-28,973.99,2025-10-13
+270,405,Grace Kelly,309,Aurora Urban Select,2025-05-30,2025-06-04,1758.84,2025-06-05
+271,406,Sebastian Nguyen,310,Northline Skyline,2025-06-17,2025-06-19,784.88,2025-07-11
+272,407,Fatima Martin,208,BlueHarbor Market District,2025-02-22,2025-02-26,2035.98,2025-03-25
+273,408,Emma Baker,104,Summit Market District,2025-09-05,2025-09-07,929.94,2025-09-11
+274,410,Emma Baker,310,Northline Market District,2025-07-15,2025-07-18,1604.08,2025-07-28
+275,411,Sarah Patel,104,Aurora Waterfront,2025-11-25,2025-11-26,405.31,2025-12-21
+276,413,Amelia Ahmed,207,Aurora Grand Plaza,2026-01-05,2026-01-14,3854.84,2026-01-23
+277,414,Sarah Miller,206,Summit Skyline,2025-06-19,2025-06-27,4457.4,2025-07-24
+278,415,Gabriel Singh,206,BlueHarbor Convention Centre,2025-02-18,2025-02-21,1388.52,2025-03-14
+279,416,Emma Murphy,310,Summit Convention Centre,2025-12-25,2025-12-30,2073.61,2026-01-19
+280,417,Mila Wright,104,Aurora Grand Plaza,2025-01-05,2025-01-09,1172.67,2025-01-19
+281,418,Mia Murphy,311,BlueHarbor Central,2025-09-02,2025-09-06,1669.51,2025-09-24
+282,419,Sebastian Tremblay,101,Maple Skyline,2025-09-10,2025-09-11,299.0,2025-10-02
+283,420,Sebastian Ahmed,206,Maple Central,2026-01-14,2026-01-23,3447.96,2026-02-15
+284,423,Chloe Kim,101,Aurora Central,2025-12-28,2026-01-01,977.89,2026-01-19
+285,424,Alexander Ross,103,Aurora Market District,2025-06-28,2025-07-05,3164.62,2025-07-27
+286,426,David Kelly,102,BlueHarbor Market District,2025-03-15,2025-03-22,2342.04,2025-03-30
+287,427,David Kelly,104,Northline Skyline,2026-02-25,2026-02-28,927.68,2026-03-01
+288,428,Henry Scott,312,Summit Harbour View,2025-12-18,2025-12-20,1666.14,2026-01-09
+289,430,Layla Murphy,311,Maple Convention Centre,2025-11-20,2025-11-22,740.88,2025-12-19
+290,431,Jack Diaz,207,Northline Grand Plaza,2025-11-10,2025-11-14,2006.49,2025-12-12
+291,432,Olivia Mitchell,208,Maple Residences,2025-02-25,2025-03-02,2278.04,2025-03-10
+292,433,Sophia Scott,101,Maple Grand Plaza,2025-10-15,2025-10-17,388.74,2025-10-26
+293,435,Mason Chen,101,Northline Urban Select,2025-04-01,2025-04-04,781.4,2025-04-29
+294,436,Thomas Johnson,101,Summit Central,2025-11-28,2025-12-03,1075.05,2025-12-18
+295,437,Gabriel Shah,208,BlueHarbor Harbour View,2025-06-02,2025-06-04,1289.1,2025-07-02
+296,438,Mila Wright,312,Northline Residences,2025-11-21,2025-11-25,2936.82,2025-12-18
+297,439,Gabriel Roy,207,Maple Market District,2026-02-09,2026-02-12,1424.43,2026-02-23
+298,440,Benjamin Hill,208,Aurora Harbour View,2025-05-11,2025-05-15,2060.52,2025-05-19
+299,443,Thomas Patel,208,Northline Urban Select,2025-08-20,2025-08-27,4028.53,2025-09-05
+300,445,Lucas Ross,312,BlueHarbor Skyline,2025-04-08,2025-04-14,4780.66,2025-04-26
+301,446,Jack Chen,104,Maple Residences,2025-09-08,2025-09-09,410.79,2025-09-18
+302,449,Theodore Diaz,312,Aurora Skyline,2026-01-06,2026-01-12,4138.77,2026-01-20
+303,451,Mila Lopez,310,BlueHarbor Convention Centre,2025-09-27,2025-09-29,919.3,2025-09-30
+304,452,Chloe Kim,104,Summit Waterfront,2026-02-06,2026-02-10,1420.44,2026-02-19
+305,453,Sophia Nguyen,103,Northline Urban Select,2025-04-04,2025-04-12,2639.38,2025-05-09
+306,455,Jasmine Mitchell,102,Maple Central,2025-03-29,2025-04-02,1045.48,2025-04-12
+307,457,Sarah Mitchell,102,Northline Waterfront,2026-02-04,2026-02-08,1317.26,2026-02-21
+308,458,Grace Khan,101,Aurora Central,2026-01-10,2026-01-14,840.81,2026-02-02
+309,460,Leo Lopez,312,Aurora Skyline,2026-03-07,2026-03-14,5248.44,2026-03-28
+310,462,Amelia Ahmed,102,BlueHarbor Central,2025-03-15,2025-03-18,718.68,2025-04-09
+311,463,Nathan Martin,103,Northline Harbour View,2026-03-12,2026-03-18,2061.12,2026-04-11
+312,465,Leo Parker,311,Aurora Residences,2025-12-02,2025-12-03,438.9,2025-12-16
+313,466,Mila Singh,309,Northline Convention Centre,2025-10-06,2025-10-15,3197.45,2025-11-14
+314,467,Benjamin Gagnon,208,BlueHarbor Urban Select,2025-04-19,2025-04-23,2124.74,2025-04-30
+315,469,Owen Bennett,207,BlueHarbor Harbour View,2025-09-24,2025-09-26,1247.25,2025-09-27
+316,470,Amelia Bennett,102,Summit Executive,2025-01-11,2025-01-14,694.95,2025-01-17
+317,471,Mila Wright,205,BlueHarbor Skyline,2025-01-30,2025-02-03,1459.72,2025-02-05
+318,472,Fatima Martin,206,Aurora Market District,2025-06-04,2025-06-10,3601.25,2025-06-11
+319,474,Lucas Wilson,207,Maple Skyline,2025-01-24,2025-01-28,1975.24,2025-01-31
+320,475,Zoe Nguyen,205,Summit Waterfront,2025-01-03,2025-01-09,2208.28,2025-01-23
+321,476,Gabriel Singh,208,Aurora Executive,2025-10-27,2025-10-30,1458.36,2025-11-07
+322,477,Gabriel Hill,312,Maple Executive,2025-08-25,2025-08-30,4109.36,2025-09-12
+323,479,Camille Kelly,205,Summit Convention Centre,2025-10-31,2025-11-03,1232.57,2025-11-23
+324,481,Daniel Clarke,208,BlueHarbor Skyline,2025-07-07,2025-07-09,1180.33,2025-07-20
+325,482,Fatima Kelly,207,Northline Executive,2025-04-14,2025-04-18,2083.49,2025-05-14
+326,483,Lily Khan,208,Northline Skyline,2025-12-09,2025-12-12,1415.61,2026-01-05
+327,484,Elijah Scott,205,Northline Market District,2025-07-21,2025-07-25,2165.44,2025-08-12
+328,485,Hannah Murphy,104,BlueHarbor Convention Centre,2025-10-27,2025-11-03,2866.7,2025-11-18
+329,491,Sebastian Chen,206,Summit Residences,2025-09-10,2025-09-14,2074.68,2025-10-04
+330,494,Isabella Murphy,101,Maple Harbour View,2025-01-03,2025-01-07,1157.88,2025-01-29
+331,496,Lily Kim,207,Northline Harbour View,2025-10-29,2025-11-01,1689.98,2025-11-27
+332,498,Leo Lopez,102,Maple Residences,2026-01-12,2026-01-14,557.86,2026-01-15
+333,499,James Lopez,101,Northline Waterfront,2025-01-13,2025-01-16,819.2,2025-01-19
+334,500,Sarah Mitchell,311,Maple Market District,2025-02-13,2025-02-14,404.99,2025-03-12
+335,501,Mason Bennett,310,BlueHarbor Convention Centre,2025-09-11,2025-09-14,1378.94,2025-10-01
+336,502,Anika Young,311,Summit Market District,2026-01-11,2026-01-13,896.14,2026-01-27
+337,504,Adam Johnson,104,BlueHarbor Market District,2025-03-10,2025-03-12,830.12,2025-03-27
+338,505,James Lopez,103,Summit Harbour View,2025-01-03,2025-01-11,2569.89,2025-01-26
+339,507,Sebastian Lopez,205,Maple Skyline,2025-08-15,2025-08-16,478.44,2025-08-20
+340,508,Aiden Patel,103,BlueHarbor Market District,2025-08-23,2025-08-30,2996.85,2025-09-25
+341,511,Leo Martin,102,Aurora Market District,2025-01-21,2025-01-24,1023.19,2025-02-08
+342,513,Jack Gagnon,101,Northline Skyline,2025-11-13,2025-11-14,216.09,2025-12-03
+343,515,Fatima Price,205,Maple Harbour View,2025-11-30,2025-12-04,1791.99,2025-12-12
+344,516,Jasmine Singh,309,Aurora Urban Select,2025-04-21,2025-04-25,1343.12,2025-05-02
+345,517,Camille Singh,312,Northline Skyline,2025-10-24,2025-10-28,2855.16,2025-11-23
+346,518,Nathan Kelly,102,Summit Executive,2026-03-10,2026-03-12,503.59,2026-03-17
+347,520,Daniel Miller,208,Maple Executive,2025-09-02,2025-09-04,932.39,2025-09-15
+348,521,Mila Reid,206,Summit Executive,2025-10-27,2025-10-31,1676.89,2025-11-02
+349,524,Sophia Ahmed,104,Northline Central,2025-06-24,2025-06-28,1465.66,2025-07-09
+350,525,Sebastian Ahmed,101,Maple Harbour View,2025-12-02,2025-12-04,673.33,2025-12-09
+351,526,Jack Diaz,206,Maple Waterfront,2025-08-07,2025-08-13,3422.34,2025-09-08
+352,527,Owen Shah,208,Maple Skyline,2026-02-22,2026-02-25,1481.43,2026-03-25
+353,528,Henry Patel,102,BlueHarbor Waterfront,2025-09-10,2025-09-17,2190.89,2025-10-02
+354,529,Olivia Rivera,310,Summit Market District,2025-10-12,2025-10-19,3144.86,2025-11-04
+355,531,Aiden Diaz,103,BlueHarbor Residences,2025-10-09,2025-10-15,2148.79,2025-10-27
+356,532,Mia Diaz,104,Summit Urban Select,2025-10-18,2025-10-25,2571.19,2025-11-16
+357,533,Sophia Nguyen,312,Northline Convention Centre,2025-12-08,2025-12-09,836.56,2025-12-18
+358,534,Harper Kelly,205,Summit Skyline,2026-02-03,2026-02-09,2371.77,2026-03-11
+359,535,Henry Scott,102,Maple Grand Plaza,2026-01-04,2026-01-05,235.99,2026-01-15
+360,536,Lily Parker,309,Aurora Waterfront,2025-06-27,2025-06-28,462.62,2025-07-21
+361,537,Julian Khan,206,BlueHarbor Urban Select,2026-01-27,2026-02-02,2602.11,2026-02-19
+362,538,Leo Wright,207,Summit Convention Centre,2025-11-11,2025-11-13,1025.45,2025-12-11
+363,540,Henry Murphy,208,Maple Residences,2025-09-02,2025-09-06,2071.82,2025-09-20
+364,541,James Martin,206,Summit Central,2025-04-25,2025-05-03,3556.22,2025-06-01
+365,542,Benjamin Gagnon,104,BlueHarbor Residences,2025-11-14,2025-11-18,1519.39,2025-11-26
+366,544,Layla Murphy,309,Maple Waterfront,2025-09-10,2025-09-17,2925.55,2025-10-08
+367,545,Isabella Murphy,104,Summit Executive,2026-03-07,2026-03-11,1352.11,2026-04-08
+368,547,Mason Patel,101,Aurora Convention Centre,2025-09-08,2025-09-09,267.91,2025-10-02
+369,548,Mia Khan,207,Summit Market District,2026-03-01,2026-03-07,3430.68,2026-03-19
+370,550,Anika Chen,310,Aurora Residences,2025-10-31,2025-11-08,3007.52,2025-12-07
+371,551,Jack Chen,205,Northline Urban Select,2025-05-19,2025-05-22,1364.34,2025-06-12
+372,553,Benjamin Gagnon,104,Aurora Convention Centre,2026-01-06,2026-01-11,1648.24,2026-02-09
+373,554,Isaac Diaz,309,Northline Market District,2025-12-28,2026-01-01,1697.58,2026-01-02
+374,557,Sarah Bennett,312,Northline Skyline,2025-01-04,2025-01-05,637.56,2025-01-17
+375,559,Lucas Wilson,206,Maple Waterfront,2025-08-18,2025-08-23,2851.95,2025-09-21
+376,565,Grace Bennett,207,Northline Urban Select,2025-06-08,2025-06-14,3689.52,2025-06-15
+377,566,Victor Wright,309,Northline Grand Plaza,2025-11-05,2025-11-12,2260.1,2025-11-14
+378,567,Julian Bennett,310,Summit Waterfront,2025-12-14,2025-12-18,1689.74,2026-01-07
+379,569,Hannah Tremblay,309,Aurora Residences,2026-01-15,2026-01-18,898.21,2026-01-21
+380,572,Leah Parker,101,Summit Skyline,2025-04-02,2025-04-05,915.71,2025-04-25
+381,573,David Kelly,208,Summit Executive,2025-02-22,2025-03-03,3824.01,2025-03-22
+382,574,Isabella Ross,206,Aurora Central,2025-08-24,2025-08-25,505.39,2025-09-21
+383,575,Lucas Mitchell,208,Maple Waterfront,2025-09-22,2025-09-25,1736.04,2025-10-11
+384,576,Sebastian Reid,312,BlueHarbor Waterfront,2025-11-02,2025-11-06,2823.58,2025-12-01
+385,577,Noah Johnson,205,BlueHarbor Market District,2025-05-11,2025-05-12,475.54,2025-05-20
+386,580,Aiden Rivera,206,Aurora Skyline,2026-02-20,2026-03-01,3806.59,2026-03-06
+387,582,Sarah Mitchell,206,Northline Urban Select,2025-05-28,2025-06-01,2013.16,2025-06-30
+388,583,Leah Murphy,208,BlueHarbor Harbour View,2025-02-28,2025-03-01,532.46,2025-03-12
+389,585,Aiden Diaz,102,Aurora Grand Plaza,2025-11-06,2025-11-11,1146.16,2025-11-15
+390,586,Olivia Johnson,311,Maple Grand Plaza,2025-12-24,2025-12-27,1186.13,2026-01-21
+391,587,Amelia Tremblay,311,Summit Residences,2025-08-30,2025-09-06,3624.36,2025-10-04
+392,588,Mason Kelly,208,Maple Central,2025-12-24,2025-12-26,950.39,2026-01-17
+393,589,Theodore Khan,208,Northline Residences,2025-06-01,2025-06-02,543.19,2025-06-17
+394,593,Julian Clarke,101,Maple Market District,2025-04-11,2025-04-17,1561.14,2025-04-30
+395,594,Ava Gagnon,205,Summit Urban Select,2025-03-06,2025-03-10,1559.36,2025-03-16
+396,595,Nathan Kelly,311,Summit Urban Select,2026-03-02,2026-03-03,428.6,2026-03-19
+397,596,Anika Scott,102,Summit Harbour View,2025-11-10,2025-11-14,1258.01,2025-11-17
+398,597,Jack Singh,101,BlueHarbor Executive,2026-01-31,2026-02-09,1797.34,2026-02-12
+399,598,Hannah Carter,310,Summit Waterfront,2025-08-04,2025-08-06,915.94,2025-08-31
+400,599,Leah Rivera,312,Northline Executive,2025-01-17,2025-01-24,4686.52,2025-02-23
+401,600,Amelia Murphy,207,Maple Convention Centre,2025-11-13,2025-11-16,1404.59,2025-12-09
+402,601,Harper Ross,207,Aurora Executive,2026-01-02,2026-01-06,1904.62,2026-01-15
+403,602,Daniel Bennett,104,Aurora Central,2025-12-18,2025-12-21,1128.89,2026-01-16
+404,603,Gabriel Shah,207,Northline Skyline,2025-04-04,2025-04-07,1455.3,2025-04-19
+405,604,Olivia Ross,102,Summit Harbour View,2025-07-02,2025-07-04,757.37,2025-07-26
+406,605,Theodore Bennett,101,BlueHarbor Skyline,2026-01-12,2026-01-17,1137.1,2026-01-18
+407,606,Nathan Martin,205,Summit Harbour View,2025-04-02,2025-04-11,4153.94,2025-04-24
+408,607,Anika Scott,101,Summit Waterfront,2026-02-14,2026-02-17,766.08,2026-02-26
+409,611,Jack Walker,103,Northline Central,2025-12-09,2025-12-10,311.43,2025-12-30
+410,612,Lily Diaz,103,Northline Urban Select,2025-06-02,2025-06-04,722.69,2025-07-01
+411,614,Elijah Patel,101,Maple Harbour View,2025-02-11,2025-02-14,896.72,2025-03-06
+412,615,Harper Ross,309,Aurora Convention Centre,2025-01-18,2025-01-22,1237.45,2025-02-17
+413,616,Sebastian Price,208,Summit Grand Plaza,2025-10-06,2025-10-10,1784.09,2025-10-12
+414,617,Aiden Miller,312,Northline Harbour View,2025-08-07,2025-08-12,4515.71,2025-08-27
+415,621,Isaac Johnson,103,Aurora Market District,2025-11-15,2025-11-17,770.52,2025-12-14
+416,622,Sophia Tremblay,103,Maple Urban Select,2025-09-17,2025-09-20,1061.68,2025-10-06
+417,623,James Young,101,Aurora Waterfront,2025-05-14,2025-05-18,1372.27,2025-05-26
+418,624,Benjamin Gagnon,206,BlueHarbor Market District,2025-10-13,2025-10-15,1056.34,2025-10-21
+419,625,Fatima Gagnon,206,BlueHarbor Urban Select,2025-10-28,2025-11-04,3398.78,2025-11-08

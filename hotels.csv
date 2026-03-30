@@ -1,0 +1,51 @@
+hotel_id,chain_id,hotel_name,category_star,address,city,state_province,area,contact_email,phone_number,total_rooms
+1,1,Aurora Central,3,"1712 No. 3 Ave, Vancouver, BC",Vancouver,BC,Richmond,auroracentral@auroragrand.com,+1-490-555-3146,12
+2,1,Aurora Skyline,4,"951 State Ave, Chicago, IL",Chicago,IL,River North,auroraskyline@auroragrand.com,+1-645-555-1638,12
+3,1,Aurora Harbour View,5,"1724 8 Ave SW Ave, Calgary, AB",Calgary,AB,Downtown,auroraharbourview@auroragrand.com,+1-695-555-7680,12
+4,1,Aurora Convention Centre,4,"1898 Pike Ave, Seattle, WA",Seattle,WA,Downtown,auroraconventioncentre@auroragrand.com,+1-467-555-6810,12
+5,1,Aurora Executive,3,"612 Seaport Blvd St, Boston, MA",Boston,MA,Seaport,auroraexecutive@auroragrand.com,+1-875-555-7886,12
+6,1,Aurora Market District,5,"1086 Burrard Ave, Vancouver, BC",Vancouver,BC,Downtown,auroramarketdistrict@auroragrand.com,+1-306-555-1272,12
+7,1,Aurora Residences,4,"1567 York St, Ottawa, ON",Ottawa,ON,ByWard Market,auroraresidences@auroragrand.com,+1-270-555-9913,12
+8,1,Aurora Grand Plaza,3,"190 Elgin St, Ottawa, ON",Ottawa,ON,Downtown,auroragrandplaza@auroragrand.com,+1-259-555-6075,12
+9,1,Aurora Urban Select,4,"1238 March St, Ottawa, ON",Ottawa,ON,Kanata,auroraurbanselect@auroragrand.com,+1-365-555-1046,12
+10,1,Aurora Waterfront,5,"1013 The East Mall Ave, Toronto, ON",Toronto,ON,Etobicoke,aurorawaterfront@auroragrand.com,+1-268-555-7811,12
+11,2,Northline Central,3,"372 Pike St, Seattle, WA",Seattle,WA,Downtown,northlinecentral@northline-resorts.com,+1-639-555-8421,12
+12,2,Northline Skyline,4,"476 8 Ave SW St, Calgary, AB",Calgary,AB,Downtown,northlineskyline@northline-resorts.com,+1-454-555-2991,12
+13,2,Northline Harbour View,5,"1095 March St, Ottawa, ON",Ottawa,ON,Kanata,northlineharbourview@northline-resorts.com,+1-681-555-8661,12
+14,2,Northline Convention Centre,4,"1195 Saint-Paul Ave, Montréal, QC",Montréal,QC,Old Montréal,northlineconventioncentre@northline-resorts.com,+1-232-555-2429,12
+15,2,Northline Executive,3,"1985 The East Mall St, Toronto, ON",Toronto,ON,Etobicoke,northlineexecutive@northline-resorts.com,+1-559-555-6923,12
+16,2,Northline Market District,5,"504 King Ave, Toronto, ON",Toronto,ON,Downtown,northlinemarketdistrict@northline-resorts.com,+1-629-555-3572,12
+17,2,Northline Residences,4,"110 York Ave, Ottawa, ON",Ottawa,ON,ByWard Market,northlineresidences@northline-resorts.com,+1-290-555-9806,12
+18,2,Northline Grand Plaza,3,"131 Boylston Ave, Boston, MA",Boston,MA,Back Bay,northlinegrandplaza@northline-resorts.com,+1-330-555-9101,12
+19,2,Northline Urban Select,4,"302 Westlake St, Seattle, WA",Seattle,WA,South Lake Union,northlineurbanselect@northline-resorts.com,+1-315-555-2946,12
+20,2,Northline Waterfront,5,"246 Wacker Ave, Chicago, IL",Chicago,IL,The Loop,northlinewaterfront@northline-resorts.com,+1-888-555-5020,12
+21,3,BlueHarbor Central,3,"1382 March St, Ottawa, ON",Ottawa,ON,Kanata,blueharborcentral@blueharborcollection.com,+1-730-555-9988,12
+22,3,BlueHarbor Skyline,4,"1260 Peel Ave, Montréal, QC",Montréal,QC,Downtown,blueharborskyline@blueharborcollection.com,+1-266-555-7974,12
+23,3,BlueHarbor Harbour View,5,"1046 The East Mall St, Toronto, ON",Toronto,ON,Etobicoke,blueharborharbourview@blueharborcollection.com,+1-919-555-1116,12
+24,3,BlueHarbor Convention Centre,4,"1842 West Pender Ave, Vancouver, BC",Vancouver,BC,Coal Harbour,blueharborconventioncentre@blueharborcollection.com,+1-708-555-2048,12
+25,3,BlueHarbor Executive,3,"1205 Wacker Ave, Chicago, IL",Chicago,IL,The Loop,blueharborexecutive@blueharborcollection.com,+1-848-555-9763,12
+26,3,BlueHarbor Market District,5,"394 Saint-Paul Ave, Montréal, QC",Montréal,QC,Old Montréal,blueharbormarketdistrict@blueharborcollection.com,+1-636-555-7781,12
+27,3,BlueHarbor Residences,4,"837 Seaport Blvd St, Boston, MA",Boston,MA,Seaport,blueharborresidences@blueharborcollection.com,+1-296-555-8781,12
+28,3,BlueHarbor Grand Plaza,3,"152 Elgin Ave, Ottawa, ON",Ottawa,ON,Downtown,blueharborgrandplaza@blueharborcollection.com,+1-318-555-7174,12
+29,3,BlueHarbor Urban Select,4,"552 Saint-Laurent Ave, Montréal, QC",Montréal,QC,Plateau,blueharborurbanselect@blueharborcollection.com,+1-352-555-3877,12
+30,3,BlueHarbor Waterfront,5,"1484 10 Ave SW St, Calgary, AB",Calgary,AB,Beltline,blueharborwaterfront@blueharborcollection.com,+1-639-555-7793,12
+31,4,Summit Central,3,"684 Pike St, Seattle, WA",Seattle,WA,Downtown,summitcentral@summitcrown.com,+1-299-555-3164,12
+32,4,Summit Skyline,4,"368 Seaport Blvd Ave, Boston, MA",Boston,MA,Seaport,summitskyline@summitcrown.com,+1-218-555-7402,12
+33,4,Summit Harbour View,5,"1020 Elgin St, Ottawa, ON",Ottawa,ON,Downtown,summitharbourview@summitcrown.com,+1-945-555-2812,12
+34,4,Summit Convention Centre,4,"1452 March Ave, Ottawa, ON",Ottawa,ON,Kanata,summitconventioncentre@summitcrown.com,+1-501-555-6971,12
+35,4,Summit Executive,3,"132 Peel St, Montréal, QC",Montréal,QC,Downtown,summitexecutive@summitcrown.com,+1-393-555-6104,12
+36,4,Summit Market District,5,"431 The East Mall St, Toronto, ON",Toronto,ON,Etobicoke,summitmarketdistrict@summitcrown.com,+1-835-555-3764,12
+37,4,Summit Residences,4,"147 King Ave, Toronto, ON",Toronto,ON,Downtown,summitresidences@summitcrown.com,+1-930-555-6499,12
+38,4,Summit Grand Plaza,3,"706 Wacker Ave, Chicago, IL",Chicago,IL,The Loop,summitgrandplaza@summitcrown.com,+1-695-555-6921,12
+39,4,Summit Urban Select,4,"450 State Ave, Chicago, IL",Chicago,IL,River North,summiturbanselect@summitcrown.com,+1-326-555-7010,12
+40,4,Summit Waterfront,5,"1704 10 Ave SW Ave, Calgary, AB",Calgary,AB,Beltline,summitwaterfront@summitcrown.com,+1-480-555-3793,12
+41,5,Maple Central,3,"529 State Ave, Chicago, IL",Chicago,IL,River North,maplecentral@mapleorbit.com,+1-909-555-3090,12
+42,5,Maple Skyline,4,"966 King Ave, Toronto, ON",Toronto,ON,Downtown,mapleskyline@mapleorbit.com,+1-578-555-6276,12
+43,5,Maple Harbour View,5,"478 Boylston St, Boston, MA",Boston,MA,Back Bay,mapleharbourview@mapleorbit.com,+1-777-555-9878,12
+44,5,Maple Convention Centre,4,"1932 Airport Trail Ave, Calgary, AB",Calgary,AB,Airport District,mapleconventioncentre@mapleorbit.com,+1-327-555-9655,12
+45,5,Maple Executive,3,"1897 March Ave, Ottawa, ON",Ottawa,ON,Kanata,mapleexecutive@mapleorbit.com,+1-876-555-2834,12
+46,5,Maple Market District,5,"113 10 Ave SW St, Calgary, AB",Calgary,AB,Beltline,maplemarketdistrict@mapleorbit.com,+1-949-555-6976,12
+47,5,Maple Residences,4,"954 Pike St, Seattle, WA",Seattle,WA,Downtown,mapleresidences@mapleorbit.com,+1-447-555-1868,12
+48,5,Maple Grand Plaza,3,"198 Elgin Ave, Ottawa, ON",Ottawa,ON,Downtown,maplegrandplaza@mapleorbit.com,+1-465-555-3474,12
+49,5,Maple Urban Select,4,"1312 Saint-Paul St, Montréal, QC",Montréal,QC,Old Montréal,mapleurbanselect@mapleorbit.com,+1-338-555-4552,12
+50,5,Maple Waterfront,5,"1108 Westlake Ave, Seattle, WA",Seattle,WA,South Lake Union,maplewaterfront@mapleorbit.com,+1-903-555-8137,12

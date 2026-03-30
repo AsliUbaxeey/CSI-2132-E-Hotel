@@ -1,0 +1,102 @@
+maintenance_id,room_id,issue_category,issue_description,reported_date,resolved_date,status,priority_level
+1,5,Window/Seal,Minor water pressure inconsistency,2026-01-08,2026-01-11,resolved,high
+2,8,Furniture,Desk lamp intermittently flickering,2025-11-28,2025-12-02,resolved,high
+3,13,Electrical,HVAC calibration required,2026-01-11,2026-01-21,resolved,low
+4,17,Climate Control,HVAC calibration required,2025-10-24,2025-10-31,resolved,low
+5,20,Climate Control,Minor water pressure inconsistency,2025-11-04,2025-11-17,resolved,high
+6,25,Bathroom,Window seal inspection requested,2025-11-01,,open,high
+7,36,Bathroom,HVAC calibration required,2025-09-22,2025-10-02,resolved,high
+8,40,Furniture,Window seal inspection requested,2025-10-19,2025-10-27,resolved,high
+9,42,Climate Control,HVAC calibration required,2026-02-01,2026-02-13,resolved,low
+10,52,Climate Control,HVAC calibration required,2025-08-12,2025-08-25,resolved,medium
+11,53,Furniture,Window seal inspection requested,2025-07-25,2025-07-31,resolved,medium
+12,54,Electrical,HVAC calibration required,2026-01-05,2026-01-10,resolved,high
+13,55,Furniture,Curtain track misalignment,2025-11-24,2025-12-02,resolved,low
+14,57,Furniture,Curtain track misalignment,2025-09-16,2025-09-17,resolved,high
+15,60,Bathroom,Window seal inspection requested,2025-12-30,2026-01-03,resolved,medium
+16,62,Window/Seal,Desk lamp intermittently flickering,2025-11-01,2025-11-05,resolved,low
+17,69,Window/Seal,Desk lamp intermittently flickering,2025-10-13,2025-10-26,resolved,medium
+18,70,Climate Control,Desk lamp intermittently flickering,2026-01-26,2026-02-06,resolved,high
+19,71,Window/Seal,Desk lamp intermittently flickering,2026-02-26,2026-03-09,resolved,high
+20,74,Electrical,Desk lamp intermittently flickering,2025-08-24,2025-09-02,resolved,medium
+21,87,Bathroom,Minor water pressure inconsistency,2025-09-09,2025-09-20,resolved,low
+22,94,Furniture,Curtain track misalignment,2026-02-22,2026-03-03,resolved,high
+23,95,Bathroom,HVAC calibration required,2025-09-26,2025-10-01,resolved,high
+24,99,Window/Seal,Window seal inspection requested,2025-12-22,2025-12-31,resolved,high
+25,112,Bathroom,Curtain track misalignment,2025-09-23,,open,low
+26,113,Climate Control,Window seal inspection requested,2025-12-30,2026-01-07,resolved,high
+27,126,Electrical,Minor water pressure inconsistency,2025-08-06,2025-08-16,resolved,high
+28,129,Bathroom,Desk lamp intermittently flickering,2025-11-17,2025-11-29,resolved,high
+29,135,Furniture,Desk lamp intermittently flickering,2025-11-20,2025-11-25,resolved,medium
+30,139,Furniture,Minor water pressure inconsistency,2025-10-09,2025-10-13,resolved,low
+31,145,Window/Seal,Minor water pressure inconsistency,2025-10-22,2025-10-24,resolved,low
+32,150,Window/Seal,Desk lamp intermittently flickering,2025-12-30,2026-01-08,resolved,medium
+33,153,Furniture,Desk lamp intermittently flickering,2026-01-23,2026-02-04,resolved,high
+34,154,Bathroom,Minor water pressure inconsistency,2026-02-22,2026-02-27,resolved,high
+35,158,Electrical,Curtain track misalignment,2025-11-14,2025-11-22,resolved,medium
+36,160,Furniture,Desk lamp intermittently flickering,2025-10-15,2025-10-29,resolved,low
+37,163,Electrical,Minor water pressure inconsistency,2026-01-30,,open,low
+38,169,Bathroom,Minor water pressure inconsistency,2026-01-23,,open,low
+39,178,Electrical,HVAC calibration required,2025-11-27,2025-12-04,resolved,low
+40,183,Bathroom,Window seal inspection requested,2025-08-02,2025-08-05,resolved,low
+41,194,Furniture,Curtain track misalignment,2025-08-18,2025-08-20,resolved,medium
+42,201,Electrical,HVAC calibration required,2025-08-10,2025-08-25,resolved,medium
+43,206,Climate Control,Desk lamp intermittently flickering,2026-01-07,2026-01-18,resolved,high
+44,211,Window/Seal,HVAC calibration required,2025-10-21,2025-10-27,resolved,high
+45,214,Furniture,Curtain track misalignment,2025-10-24,2025-10-25,resolved,medium
+46,231,Climate Control,HVAC calibration required,2025-09-26,,open,high
+47,246,Window/Seal,Window seal inspection requested,2025-08-01,,open,medium
+48,256,Window/Seal,Desk lamp intermittently flickering,2025-11-18,2025-11-22,resolved,medium
+49,260,Window/Seal,Minor water pressure inconsistency,2026-03-07,2026-03-17,resolved,medium
+50,265,Bathroom,HVAC calibration required,2026-02-17,2026-02-20,resolved,high
+51,269,Bathroom,Window seal inspection requested,2026-01-16,2026-01-26,resolved,low
+52,271,Furniture,Window seal inspection requested,2025-11-01,2025-11-05,resolved,medium
+53,274,Bathroom,Curtain track misalignment,2025-10-17,2025-10-28,resolved,low
+54,278,Climate Control,HVAC calibration required,2025-11-23,,open,medium
+55,283,Electrical,Desk lamp intermittently flickering,2026-01-23,2026-01-24,resolved,low
+56,297,Window/Seal,Desk lamp intermittently flickering,2025-08-10,2025-08-15,resolved,low
+57,309,Electrical,Window seal inspection requested,2026-01-17,2026-01-29,resolved,high
+58,310,Climate Control,Curtain track misalignment,2026-01-24,2026-02-03,resolved,high
+59,315,Climate Control,Window seal inspection requested,2026-01-14,,open,high
+60,316,Electrical,Minor water pressure inconsistency,2025-08-28,2025-09-12,resolved,low
+61,324,Furniture,Window seal inspection requested,2025-12-23,2025-12-28,resolved,medium
+62,327,Climate Control,Desk lamp intermittently flickering,2025-11-02,2025-11-17,resolved,high
+63,344,Electrical,HVAC calibration required,2025-08-02,2025-08-11,resolved,high
+64,348,Climate Control,Window seal inspection requested,2025-10-14,2025-10-29,resolved,medium
+65,349,Bathroom,Window seal inspection requested,2026-03-15,2026-03-24,resolved,low
+66,351,Electrical,Desk lamp intermittently flickering,2026-02-15,2026-02-24,resolved,high
+67,354,Climate Control,Window seal inspection requested,2026-02-03,2026-02-11,resolved,low
+68,369,Electrical,Minor water pressure inconsistency,2025-12-22,2026-01-01,resolved,high
+69,384,Window/Seal,Minor water pressure inconsistency,2025-10-07,2025-10-12,resolved,low
+70,387,Window/Seal,HVAC calibration required,2025-11-24,,open,medium
+71,401,Electrical,Window seal inspection requested,2026-03-15,2026-03-27,resolved,high
+72,417,Window/Seal,HVAC calibration required,2026-01-06,,open,medium
+73,418,Window/Seal,Window seal inspection requested,2025-11-05,2025-11-11,resolved,low
+74,421,Window/Seal,Window seal inspection requested,2025-12-25,2026-01-03,resolved,medium
+75,426,Window/Seal,Desk lamp intermittently flickering,2026-01-10,2026-01-20,resolved,high
+76,435,Window/Seal,HVAC calibration required,2025-10-29,2025-11-04,resolved,high
+77,448,Electrical,Desk lamp intermittently flickering,2025-10-23,2025-10-30,resolved,high
+78,465,Furniture,Curtain track misalignment,2025-09-20,2025-09-30,resolved,low
+79,467,Bathroom,Window seal inspection requested,2025-10-08,2025-10-13,resolved,low
+80,470,Window/Seal,Curtain track misalignment,2025-12-08,2025-12-13,resolved,low
+81,474,Climate Control,Window seal inspection requested,2025-12-01,2025-12-16,resolved,high
+82,485,Furniture,Curtain track misalignment,2025-08-16,2025-08-27,resolved,low
+83,488,Bathroom,Curtain track misalignment,2026-01-23,2026-02-02,resolved,high
+84,496,Window/Seal,Desk lamp intermittently flickering,2025-09-27,2025-10-01,resolved,low
+85,504,Bathroom,Minor water pressure inconsistency,2025-12-10,2025-12-22,resolved,medium
+86,505,Climate Control,Curtain track misalignment,2025-09-19,2025-09-20,resolved,high
+87,508,Electrical,HVAC calibration required,2025-07-24,2025-07-28,resolved,low
+88,511,Window/Seal,Desk lamp intermittently flickering,2025-10-11,2025-10-17,resolved,medium
+89,512,Window/Seal,Minor water pressure inconsistency,2025-11-07,2025-11-08,resolved,low
+90,516,Window/Seal,Desk lamp intermittently flickering,2025-12-14,2025-12-17,resolved,medium
+91,518,Electrical,HVAC calibration required,2025-12-12,,open,low
+92,521,Climate Control,Window seal inspection requested,2025-12-20,2026-01-01,resolved,medium
+93,523,Bathroom,HVAC calibration required,2025-07-22,2025-07-28,resolved,medium
+94,529,Bathroom,Desk lamp intermittently flickering,2025-12-30,,open,high
+95,541,Electrical,Window seal inspection requested,2025-08-20,2025-09-04,resolved,low
+96,556,Climate Control,HVAC calibration required,2025-12-16,2025-12-24,resolved,low
+97,563,Bathroom,Desk lamp intermittently flickering,2025-11-28,2025-11-30,resolved,medium
+98,573,Electrical,Curtain track misalignment,2026-02-05,2026-02-17,resolved,low
+99,574,Furniture,Window seal inspection requested,2025-12-17,2025-12-29,resolved,medium
+100,582,Window/Seal,Curtain track misalignment,2026-01-06,2026-01-18,resolved,medium
+101,589,Climate Control,Desk lamp intermittently flickering,2025-09-08,2025-09-21,resolved,high
